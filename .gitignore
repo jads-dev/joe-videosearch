@@ -31,3 +31,4 @@ coverage
 .history
 static/data-*
 /data.db
+/data_yt.db

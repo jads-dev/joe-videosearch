@@ -1,0 +1,7184 @@
+{
+    "20171002": [
+        {
+            "duration": 12082,
+            "priority": 5,
+            "video_id": "WyHlkpD2iwg"
+        }
+    ],
+    "20171003": [
+        {
+            "duration": 18457,
+            "priority": 5,
+            "video_id": "5zdWoNQniUo"
+        }
+    ],
+    "20171004": [
+        {
+            "duration": 16991,
+            "priority": 5,
+            "video_id": "KbWi_wibdQU"
+        }
+    ],
+    "20171006": [
+        {
+            "duration": 17916,
+            "priority": 5,
+            "video_id": "vQiQ_dtZe_0"
+        }
+    ],
+    "20171008": [
+        {
+            "duration": 17141,
+            "priority": 5,
+            "video_id": "M1TKVqym0AY"
+        }
+    ],
+    "20171009": [
+        {
+            "duration": 9282,
+            "priority": 5,
+            "video_id": "6C_l4WsHJ2U"
+        }
+    ],
+    "20171010": [
+        {
+            "duration": 15924,
+            "priority": 5,
+            "video_id": "SQH1GaoCle4"
+        }
+    ],
+    "20171012": [
+        {
+            "duration": 22218,
+            "priority": 5,
+            "video_id": "W2sQ9T2K_jE"
+        }
+    ],
+    "20171013": [
+        {
+            "duration": 21136,
+            "priority": 5,
+            "video_id": "WtBXfkVPrQk"
+        }
+    ],
+    "20171014": [
+        {
+            "duration": 21473,
+            "priority": 5,
+            "video_id": "iSsJtK8Be5Q"
+        }
+    ],
+    "20171015": [
+        {
+            "duration": 25903,
+            "priority": 2,
+            "video_id": "AFoh3xkgMXA"
+        },
+        {
+            "duration": 25903,
+            "priority": 5,
+            "video_id": "Z3_7G5cgKEM"
+        }
+    ],
+    "20171016": [
+        {
+            "duration": 32265,
+            "priority": 2,
+            "video_id": "bpvegTTmrns"
+        },
+        {
+            "duration": 32265,
+            "priority": 5,
+            "video_id": "5QryAXDcWEU"
+        }
+    ],
+    "20171017": [
+        {
+            "duration": 15676,
+            "priority": 2,
+            "video_id": "rdKophdztHs"
+        },
+        {
+            "duration": 15676,
+            "priority": 5,
+            "video_id": "IGA6IlPA0CQ"
+        }
+    ],
+    "20171020": [
+        {
+            "duration": 18629,
+            "priority": 2,
+            "video_id": "_OizYVHOc5I"
+        },
+        {
+            "duration": 18629,
+            "priority": 5,
+            "video_id": "LjTUE94Hp2U"
+        }
+    ],
+    "20171021": [
+        {
+            "duration": 18753,
+            "priority": 2,
+            "video_id": "vrnM-vmS7sI"
+        },
+        {
+            "duration": 18750,
+            "priority": 5,
+            "video_id": "uLSO37CuLV4"
+        }
+    ],
+    "20171022": [
+        {
+            "duration": 26270,
+            "priority": 2,
+            "video_id": "DGqIHuhkoq0"
+        },
+        {
+            "duration": 21833,
+            "priority": 5,
+            "video_id": "snRSFEvw-bk"
+        }
+    ],
+    "20171023": [
+        {
+            "duration": 21014,
+            "priority": 2,
+            "video_id": "Zo80t9gJqRU"
+        },
+        {
+            "duration": 21011,
+            "priority": 5,
+            "video_id": "CJGqagrWGIs"
+        }
+    ],
+    "20171024": [
+        {
+            "duration": 19684,
+            "priority": 2,
+            "video_id": "qIR6fgpJnXc"
+        },
+        {
+            "duration": 19684,
+            "priority": 5,
+            "video_id": "sBOk3GhC1eM"
+        }
+    ],
+    "20171025": [
+        {
+            "duration": 15407,
+            "priority": 2,
+            "video_id": "WtGF5QvCkn4"
+        },
+        {
+            "duration": 15407,
+            "priority": 5,
+            "video_id": "3gLvKu-RFnw"
+        }
+    ],
+    "20171026": [
+        {
+            "duration": 17856,
+            "priority": 2,
+            "video_id": "xEExDNlk2ls"
+        },
+        {
+            "duration": 7629,
+            "priority": 5,
+            "video_id": "8Aztjiv_324"
+        }
+    ],
+    "20171027": [
+        {
+            "duration": 44840,
+            "priority": 5,
+            "video_id": "IcenLqymSGM"
+        }
+    ],
+    "20171028": [
+        {
+            "duration": 22100,
+            "priority": 1,
+            "video_id": "EN9oPExZ8nw"
+        },
+        {
+            "duration": 22100,
+            "priority": 2,
+            "video_id": "TtyUjWUUK2Y"
+        }
+    ],
+    "20171029": [
+        {
+            "duration": 21388,
+            "priority": 1,
+            "video_id": "DeIQx3F1AYk"
+        },
+        {
+            "duration": 21388,
+            "priority": 2,
+            "video_id": "oTMzDKHOVkw"
+        }
+    ],
+    "20171030": [
+        {
+            "duration": 14867,
+            "priority": 1,
+            "video_id": "sqWPobBBD80"
+        },
+        {
+            "duration": 14867,
+            "priority": 2,
+            "video_id": "zO4KN4puInM"
+        }
+    ],
+    "20171031": [
+        {
+            "duration": 24657,
+            "priority": 2,
+            "video_id": "YUh440Sd6XM"
+        },
+        {
+            "duration": 24657,
+            "priority": 5,
+            "video_id": "WAZI9FHMcUw"
+        }
+    ],
+    "20171101": [
+        {
+            "duration": 12611,
+            "priority": 2,
+            "video_id": "wp6zfot7u80"
+        },
+        {
+            "duration": 12611,
+            "priority": 5,
+            "video_id": "ibxRqOpM_Wk"
+        }
+    ],
+    "20171102": [
+        {
+            "duration": 19812,
+            "priority": 2,
+            "video_id": "yx44aB_pVrI"
+        },
+        {
+            "duration": 13535,
+            "priority": 2,
+            "video_id": "Qi0UFqq-X70"
+        },
+        {
+            "duration": 19812,
+            "priority": 5,
+            "video_id": "68lhOmCk9hw"
+        },
+        {
+            "duration": 13535,
+            "priority": 5,
+            "video_id": "A-1fQN2Gu9Q"
+        }
+    ],
+    "20171103": [
+        {
+            "duration": 16357,
+            "priority": 5,
+            "video_id": "k8nBG7ZIcts"
+        }
+    ],
+    "20171104": [
+        {
+            "duration": 16262,
+            "priority": 5,
+            "video_id": "qKdeTmiGGOU"
+        }
+    ],
+    "20171105": [
+        {
+            "duration": 2993,
+            "priority": 5,
+            "video_id": "jIiuo8Vmyec"
+        }
+    ],
+    "20171106": [
+        {
+            "duration": 12405,
+            "priority": 5,
+            "video_id": "i_ArI2hI_88"
+        }
+    ],
+    "20171107": [
+        {
+            "duration": 16583,
+            "priority": 5,
+            "video_id": "iQHsmSSG5Hg"
+        }
+    ],
+    "20171108": [
+        {
+            "duration": 12137,
+            "priority": 2,
+            "video_id": "25r4CPHNV-Y"
+        }
+    ],
+    "20171109": [
+        {
+            "duration": 18866,
+            "priority": 5,
+            "video_id": "83hRgEMel9w"
+        }
+    ],
+    "20171110": [
+        {
+            "duration": 14388,
+            "priority": 5,
+            "video_id": "W8n2JG7jzFU"
+        }
+    ],
+    "20171111": [
+        {
+            "duration": 18018,
+            "priority": 5,
+            "video_id": "cL1SmlVKup8"
+        }
+    ],
+    "20171112": [
+        {
+            "duration": 15600,
+            "priority": 5,
+            "video_id": "XeAmXe8hams"
+        }
+    ],
+    "20171113": [
+        {
+            "duration": 17798,
+            "priority": 5,
+            "video_id": "mcbq1FRa2Z8"
+        }
+    ],
+    "20171114": [
+        {
+            "duration": 16865,
+            "priority": 5,
+            "video_id": "TwlYrvhBRzA"
+        }
+    ],
+    "20171116": [
+        {
+            "duration": 17063,
+            "priority": 5,
+            "video_id": "4QE19dL3a-w"
+        }
+    ],
+    "20171117": [
+        {
+            "duration": 18572,
+            "priority": 5,
+            "video_id": "Oz-VC5m6kd8"
+        }
+    ],
+    "20171118": [
+        {
+            "duration": 15373,
+            "priority": 5,
+            "video_id": "LFaSYXOz57g"
+        }
+    ],
+    "20171119": [
+        {
+            "duration": 17656,
+            "priority": 5,
+            "video_id": "vD4Q37ezp4c"
+        }
+    ],
+    "20171120": [
+        {
+            "duration": 15235,
+            "priority": 5,
+            "video_id": "77yu0Jy3G5I"
+        },
+        {
+            "duration": 16102,
+            "priority": 5,
+            "video_id": "GbIzYmKWM1U"
+        }
+    ],
+    "20171121": [
+        {
+            "duration": 26121,
+            "priority": 2,
+            "video_id": "4iYxNG0go-8"
+        },
+        {
+            "duration": 26126,
+            "priority": 5,
+            "video_id": "z5lDuR_ocrc"
+        }
+    ],
+    "20171122": [
+        {
+            "duration": 29280,
+            "priority": 2,
+            "video_id": "0LdcZSN1_9w"
+        },
+        {
+            "duration": 29286,
+            "priority": 5,
+            "video_id": "JZWInD1jLhA"
+        }
+    ],
+    "20171124": [
+        {
+            "duration": 20274,
+            "priority": 2,
+            "video_id": "rSI__al9RrE"
+        },
+        {
+            "duration": 20279,
+            "priority": 5,
+            "video_id": "J8yiXL92nqw"
+        }
+    ],
+    "20171126": [
+        {
+            "duration": 14729,
+            "priority": 3,
+            "video_id": "rHk7n-7Na_Y"
+        }
+    ],
+    "20171127": [
+        {
+            "duration": 16110,
+            "priority": 3,
+            "video_id": "q8gu80Q7nXM"
+        }
+    ],
+    "20171130": [
+        {
+            "duration": 12898,
+            "priority": 3,
+            "video_id": "LATBx23FK_k"
+        }
+    ],
+    "20171201": [
+        {
+            "duration": 19117,
+            "priority": 2,
+            "video_id": "uUhLzusVi1A"
+        },
+        {
+            "duration": 19121,
+            "priority": 5,
+            "video_id": "jJxqXJnbJfQ"
+        }
+    ],
+    "20171202": [
+        {
+            "duration": 19182,
+            "priority": 2,
+            "video_id": "LimRWCQCxag"
+        },
+        {
+            "duration": 19188,
+            "priority": 5,
+            "video_id": "qQHvYNRmFy0"
+        }
+    ],
+    "20171203": [
+        {
+            "duration": 20363,
+            "priority": 2,
+            "video_id": "BNbhn1cLc-Y"
+        },
+        {
+            "duration": 13529,
+            "priority": 5,
+            "video_id": "pw_ppkVqBfg"
+        }
+    ],
+    "20171204": [
+        {
+            "duration": 20175,
+            "priority": 2,
+            "video_id": "7Fyp3vkq0bg"
+        },
+        {
+            "duration": 20182,
+            "priority": 5,
+            "video_id": "OKahXPxTGfY"
+        }
+    ],
+    "20171206": [
+        {
+            "duration": 18573,
+            "priority": 2,
+            "video_id": "uVINI8wWLdE"
+        },
+        {
+            "duration": 18579,
+            "priority": 5,
+            "video_id": "KxEAZdO39pc"
+        }
+    ],
+    "20171207": [
+        {
+            "duration": 15334,
+            "priority": 2,
+            "video_id": "546yzvHdjCw"
+        },
+        {
+            "duration": 15341,
+            "priority": 5,
+            "video_id": "qGdRylQqiBQ"
+        }
+    ],
+    "20171208": [
+        {
+            "duration": 6804,
+            "priority": 3,
+            "video_id": "pW6opR4lliQ"
+        },
+        {
+            "duration": 9900,
+            "priority": 3,
+            "video_id": "r_J3MdzElQ8"
+        }
+    ],
+    "20171209": [
+        {
+            "duration": 14303,
+            "priority": 2,
+            "video_id": "e_vhQwJgPwA"
+        },
+        {
+            "duration": 14310,
+            "priority": 5,
+            "video_id": "IGxEWpBs-60"
+        }
+    ],
+    "20171211": [
+        {
+            "duration": 25689,
+            "priority": 5,
+            "video_id": "YUJaT3q72R8"
+        }
+    ],
+    "20171213": [
+        {
+            "duration": 14691,
+            "priority": 2,
+            "video_id": "acdMO0hlVTs"
+        },
+        {
+            "duration": 14696,
+            "priority": 5,
+            "video_id": "8sYEHVaf9RY"
+        }
+    ],
+    "20171214": [
+        {
+            "duration": 16028,
+            "priority": 2,
+            "video_id": "FtEYzeJU-eI"
+        },
+        {
+            "duration": 16034,
+            "priority": 5,
+            "video_id": "gxujfjwR6B4"
+        }
+    ],
+    "20171215": [
+        {
+            "duration": 16856,
+            "priority": 2,
+            "video_id": "iOEL4PRaHtQ"
+        },
+        {
+            "duration": 16863,
+            "priority": 5,
+            "video_id": "IDxfceaRvuY"
+        }
+    ],
+    "20171216": [
+        {
+            "duration": 14257,
+            "priority": 2,
+            "video_id": "RtwKIlhtwqk"
+        },
+        {
+            "duration": 14265,
+            "priority": 5,
+            "video_id": "RpHTZrmd3ZA"
+        }
+    ],
+    "20171218": [
+        {
+            "duration": 24456,
+            "priority": 2,
+            "video_id": "4aENXZyd34o"
+        }
+    ],
+    "20171219": [
+        {
+            "duration": 15086,
+            "priority": 2,
+            "video_id": "kGBpTq9knyk"
+        },
+        {
+            "duration": 15216,
+            "priority": 5,
+            "video_id": "b-WzsCXjCR4"
+        }
+    ],
+    "20171220": [
+        {
+            "duration": 16839,
+            "priority": 2,
+            "video_id": "hLgPWRIQKBE"
+        },
+        {
+            "duration": 17101,
+            "priority": 5,
+            "video_id": "VrcYQK9dSiM"
+        },
+        {
+            "duration": 12372,
+            "priority": 5,
+            "video_id": "c5d7TDcIoJk"
+        }
+    ],
+    "20171223": [
+        {
+            "duration": 24045,
+            "priority": 2,
+            "video_id": "OkjqnYbKpV8"
+        },
+        {
+            "duration": 24051,
+            "priority": 5,
+            "video_id": "8LPdidQqIDQ"
+        }
+    ],
+    "20171224": [
+        {
+            "duration": 8282,
+            "priority": 2,
+            "video_id": "nAY6uHAuuuI"
+        }
+    ],
+    "20171225": [
+        {
+            "duration": 10464,
+            "priority": 2,
+            "video_id": "AhSRAW0ckUI"
+        }
+    ],
+    "20171227": [
+        {
+            "duration": 13057,
+            "priority": 2,
+            "video_id": "R6xXad6QUDs"
+        }
+    ],
+    "20171229": [
+        {
+            "duration": 8129,
+            "priority": 2,
+            "video_id": "8L5X72JLpcY"
+        }
+    ],
+    "20171231": [
+        {
+            "duration": 16417,
+            "priority": 2,
+            "video_id": "KYOlWpEnwV8"
+        }
+    ],
+    "20180102": [
+        {
+            "duration": 11549,
+            "priority": 2,
+            "video_id": "U5EJnGOitzs"
+        },
+        {
+            "duration": 7378,
+            "priority": 5,
+            "video_id": "DcLd1doupoY"
+        }
+    ],
+    "20180104": [
+        {
+            "duration": 13148,
+            "priority": 5,
+            "video_id": "ap9Wbnqsoic"
+        }
+    ],
+    "20180105": [
+        {
+            "duration": 14149,
+            "priority": 2,
+            "video_id": "G54irqWwsag"
+        },
+        {
+            "duration": 14139,
+            "priority": 5,
+            "video_id": "_1uPLZdRi1Y"
+        }
+    ],
+    "20180110": [
+        {
+            "duration": 9867,
+            "priority": 2,
+            "video_id": "IqaCcXsCduI"
+        },
+        {
+            "duration": 9867,
+            "priority": 2,
+            "video_id": "s5OI5eIf6Nc"
+        }
+    ],
+    "20180111": [
+        {
+            "duration": 17626,
+            "priority": 2,
+            "video_id": "5g3dyOES6ow"
+        },
+        {
+            "duration": 17626,
+            "priority": 5,
+            "video_id": "z0shnq5fg2s"
+        }
+    ],
+    "20180112": [
+        {
+            "duration": 20004,
+            "priority": 5,
+            "video_id": "PKuR9R7xPGM"
+        }
+    ],
+    "20180113": [
+        {
+            "duration": 15960,
+            "priority": 5,
+            "video_id": "C6aistm6Tek"
+        }
+    ],
+    "20180114": [
+        {
+            "duration": 14610,
+            "priority": 2,
+            "video_id": "ddF4eXZOElk"
+        },
+        {
+            "duration": 14610,
+            "priority": 5,
+            "video_id": "zd5M_myoLsQ"
+        }
+    ],
+    "20180115": [
+        {
+            "duration": 16031,
+            "priority": 2,
+            "video_id": "-zsRjD8fcrY"
+        },
+        {
+            "duration": 16031,
+            "priority": 5,
+            "video_id": "2iDbSLS8Q7A"
+        }
+    ],
+    "20180117": [
+        {
+            "duration": 15368,
+            "priority": 2,
+            "video_id": "1VIkk04mxZc"
+        },
+        {
+            "duration": 15368,
+            "priority": 5,
+            "video_id": "7xAO7FCneb4"
+        }
+    ],
+    "20180118": [
+        {
+            "duration": 14286,
+            "priority": 5,
+            "video_id": "gI_bqmu9X84"
+        }
+    ],
+    "20180119": [
+        {
+            "duration": 10997,
+            "priority": 5,
+            "video_id": "S_5pxDRyRPk"
+        }
+    ],
+    "20180120": [
+        {
+            "duration": 15278,
+            "priority": 5,
+            "video_id": "oAZ78OtOjQc"
+        }
+    ],
+    "20180121": [
+        {
+            "duration": 23933,
+            "priority": 5,
+            "video_id": "vlu8ec2425Y"
+        }
+    ],
+    "20180123": [
+        {
+            "duration": 16946,
+            "priority": 5,
+            "video_id": "HJbtGKy4myg"
+        }
+    ],
+    "20180124": [
+        {
+            "duration": 18242,
+            "priority": 5,
+            "video_id": "ZT2B1Clw_fI"
+        }
+    ],
+    "20180125": [
+        {
+            "duration": 8720,
+            "priority": 3,
+            "video_id": "renzYuRbbf0"
+        },
+        {
+            "duration": 18653,
+            "priority": 5,
+            "video_id": "S9nfXCMbdXw"
+        }
+    ],
+    "20180126": [
+        {
+            "duration": 20736,
+            "priority": 3,
+            "video_id": "MHwrLltkN6k"
+        }
+    ],
+    "20180127": [
+        {
+            "duration": 15268,
+            "priority": 3,
+            "video_id": "ijMuaX8dEL4"
+        }
+    ],
+    "20180128": [
+        {
+            "duration": 15432,
+            "priority": 5,
+            "video_id": "UgZcS4cnSQg"
+        },
+        {
+            "duration": 19346,
+            "priority": 5,
+            "video_id": "fxXOHpb_cb8"
+        }
+    ],
+    "20180130": [
+        {
+            "duration": 17613,
+            "priority": 5,
+            "video_id": "XeZkhgA5cgc"
+        }
+    ],
+    "20180131": [
+        {
+            "duration": 22138,
+            "priority": 5,
+            "video_id": "eDX5kuqjEl8"
+        }
+    ],
+    "20180201": [
+        {
+            "duration": 16655,
+            "priority": 5,
+            "video_id": "FdL97qkAP9M"
+        }
+    ],
+    "20180202": [
+        {
+            "duration": 19140,
+            "priority": 2,
+            "video_id": "zct3M-l6Tpw"
+        },
+        {
+            "duration": 19140,
+            "priority": 5,
+            "video_id": "l2wYIuBv9ks"
+        }
+    ],
+    "20180203": [
+        {
+            "duration": 25216,
+            "priority": 2,
+            "video_id": "a_CBYaLjT0U"
+        },
+        {
+            "duration": 25216,
+            "priority": 5,
+            "video_id": "UQYXXmx3L1o"
+        }
+    ],
+    "20180206": [
+        {
+            "duration": 23495,
+            "priority": 2,
+            "video_id": "WROTiM-lbPg"
+        },
+        {
+            "duration": 23494,
+            "priority": 5,
+            "video_id": "ZEYMM3vvDdY"
+        }
+    ],
+    "20180207": [
+        {
+            "duration": 17142,
+            "priority": 2,
+            "video_id": "NLitUMoquDE"
+        },
+        {
+            "duration": 17142,
+            "priority": 5,
+            "video_id": "iIsRmJdJ3S4"
+        }
+    ],
+    "20180208": [
+        {
+            "duration": 12418,
+            "priority": 2,
+            "video_id": "mPFAMNgmFfY"
+        },
+        {
+            "duration": 12418,
+            "priority": 5,
+            "video_id": "mPbVz65d9WI"
+        }
+    ],
+    "20180213": [
+        {
+            "duration": 15377,
+            "priority": 2,
+            "video_id": "tAsa5_c_QLw"
+        },
+        {
+            "duration": 15377,
+            "priority": 5,
+            "video_id": "dDX_b5Ptarc"
+        }
+    ],
+    "20180214": [
+        {
+            "duration": 23213,
+            "priority": 5,
+            "video_id": "BlntZtGNFdY"
+        }
+    ],
+    "20180215": [
+        {
+            "duration": 24283,
+            "priority": 5,
+            "video_id": "H3rMUO33axc"
+        }
+    ],
+    "20180216": [
+        {
+            "duration": 20794,
+            "priority": 5,
+            "video_id": "iaQ4vuxjRR8"
+        }
+    ],
+    "20180217": [
+        {
+            "duration": 26153,
+            "priority": 5,
+            "video_id": "LBYcGzqq-RQ"
+        }
+    ],
+    "20180220": [
+        {
+            "duration": 24177,
+            "priority": 5,
+            "video_id": "sVAgu6BiYCs"
+        }
+    ],
+    "20180221": [
+        {
+            "duration": 19747,
+            "priority": 5,
+            "video_id": "8jMIBGQDSMk"
+        }
+    ],
+    "20180222": [
+        {
+            "duration": 19685,
+            "priority": 2,
+            "video_id": "pThIl2fN87M"
+        },
+        {
+            "duration": 19685,
+            "priority": 5,
+            "video_id": "8FyW1Ptd0m4"
+        }
+    ],
+    "20180224": [
+        {
+            "duration": 24553,
+            "priority": 2,
+            "video_id": "nfAB2HN1NY0"
+        },
+        {
+            "duration": 24553,
+            "priority": 5,
+            "video_id": "vIQgdV8PwEg"
+        }
+    ],
+    "20180227": [
+        {
+            "duration": 20475,
+            "priority": 2,
+            "video_id": "qacRK_YHrXY"
+        },
+        {
+            "duration": 20475,
+            "priority": 5,
+            "video_id": "kWGd5lQIdhA"
+        }
+    ],
+    "20180228": [
+        {
+            "duration": 16888,
+            "priority": 2,
+            "video_id": "GmueiiPM7rM"
+        },
+        {
+            "duration": 16885,
+            "priority": 5,
+            "video_id": "noNxI08B_gY"
+        }
+    ],
+    "20180302": [
+        {
+            "duration": 15975,
+            "priority": 2,
+            "video_id": "b4QgVMUkqn4"
+        },
+        {
+            "duration": 15975,
+            "priority": 5,
+            "video_id": "qwIwEf4XmJ8"
+        }
+    ],
+    "20180303": [
+        {
+            "duration": 22220,
+            "priority": 2,
+            "video_id": "kcf2SdlpxTQ"
+        },
+        {
+            "duration": 21502,
+            "priority": 2,
+            "video_id": "EJzBidK74U4"
+        },
+        {
+            "duration": 22220,
+            "priority": 5,
+            "video_id": "S5Kp255MuW8"
+        },
+        {
+            "duration": 21502,
+            "priority": 5,
+            "video_id": "dNx7A2NGW_Y"
+        }
+    ],
+    "20180306": [
+        {
+            "duration": 18091,
+            "priority": 2,
+            "video_id": "4IlUb_S8rDQ"
+        },
+        {
+            "duration": 18091,
+            "priority": 5,
+            "video_id": "UYpu89gFqtk"
+        }
+    ],
+    "20180307": [
+        {
+            "duration": 15886,
+            "priority": 2,
+            "video_id": "MhGAco48Rwc"
+        },
+        {
+            "duration": 15886,
+            "priority": 5,
+            "video_id": "0C8Cgzl9oDE"
+        }
+    ],
+    "20180308": [
+        {
+            "duration": 15250,
+            "priority": 2,
+            "video_id": "-xvD3qF1VMs"
+        },
+        {
+            "duration": 15250,
+            "priority": 5,
+            "video_id": "b01KBkNub0M"
+        }
+    ],
+    "20180309": [
+        {
+            "duration": 15194,
+            "priority": 2,
+            "video_id": "lR4-0ML0-OQ"
+        },
+        {
+            "duration": 15194,
+            "priority": 5,
+            "video_id": "ayI_oKZjfR0"
+        }
+    ],
+    "20180310": [
+        {
+            "duration": 20071,
+            "priority": 2,
+            "video_id": "CGQQoiJqnOo"
+        },
+        {
+            "duration": 20071,
+            "priority": 5,
+            "video_id": "8huxIKrFikw"
+        }
+    ],
+    "20180314": [
+        {
+            "duration": 16704,
+            "priority": 2,
+            "video_id": "Nyc8v5xV0og"
+        },
+        {
+            "duration": 16704,
+            "priority": 5,
+            "video_id": "Lsyk2MFRrwQ"
+        }
+    ],
+    "20180315": [
+        {
+            "duration": 15377,
+            "priority": 2,
+            "video_id": "WTzQBpXnJ84"
+        },
+        {
+            "duration": 15374,
+            "priority": 5,
+            "video_id": "gvrryWeITQ0"
+        }
+    ],
+    "20180317": [
+        {
+            "duration": 14958,
+            "priority": 2,
+            "video_id": "GuFj0JKdaoQ"
+        },
+        {
+            "duration": 14958,
+            "priority": 5,
+            "video_id": "xdUfa8ZGbm0"
+        }
+    ],
+    "20180318": [
+        {
+            "duration": 18695,
+            "priority": 2,
+            "video_id": "O3MTr5Kjft0"
+        },
+        {
+            "duration": 18695,
+            "priority": 5,
+            "video_id": "FOZhuUOM64M"
+        }
+    ],
+    "20180320": [
+        {
+            "duration": 15290,
+            "priority": 2,
+            "video_id": "xZgZyKaEwIs"
+        },
+        {
+            "duration": 15290,
+            "priority": 5,
+            "video_id": "z1wtNnmKvyo"
+        }
+    ],
+    "20180322": [
+        {
+            "duration": 23004,
+            "priority": 2,
+            "video_id": "OUTII13-xec"
+        },
+        {
+            "duration": 23004,
+            "priority": 5,
+            "video_id": "FqJTBEg_4ZQ"
+        }
+    ],
+    "20180323": [
+        {
+            "duration": 20112,
+            "priority": 2,
+            "video_id": "Cj9VDCcsv1o"
+        },
+        {
+            "duration": 20112,
+            "priority": 5,
+            "video_id": "nU3AG01dvHk"
+        }
+    ],
+    "20180324": [
+        {
+            "duration": 14821,
+            "priority": 2,
+            "video_id": "sC8e_G_yCbI"
+        },
+        {
+            "duration": 14821,
+            "priority": 5,
+            "video_id": "LjCGwo6SL0I"
+        }
+    ],
+    "20180327": [
+        {
+            "duration": 17535,
+            "priority": 2,
+            "video_id": "4GQfqXcLNo4"
+        },
+        {
+            "duration": 17531,
+            "priority": 5,
+            "video_id": "O__uX2mr1N0"
+        }
+    ],
+    "20180328": [
+        {
+            "duration": 14721,
+            "priority": 2,
+            "video_id": "mkfUlsG58O8"
+        },
+        {
+            "duration": 14721,
+            "priority": 5,
+            "video_id": "T8VbpLrL1JM"
+        }
+    ],
+    "20180329": [
+        {
+            "duration": 22530,
+            "priority": 2,
+            "video_id": "O0op6CSJO4s"
+        },
+        {
+            "duration": 22530,
+            "priority": 5,
+            "video_id": "CnJyNKfxyPQ"
+        }
+    ],
+    "20180330": [
+        {
+            "duration": 25166,
+            "priority": 2,
+            "video_id": "9n3lbwawKIQ"
+        },
+        {
+            "duration": 25162,
+            "priority": 5,
+            "video_id": "v4oNnN0cJHM"
+        }
+    ],
+    "20180331": [
+        {
+            "duration": 19097,
+            "priority": 5,
+            "video_id": "51LxAZ1nvac"
+        }
+    ],
+    "20180412": [
+        {
+            "duration": 15617,
+            "priority": 5,
+            "video_id": "ylVZsesXUko"
+        }
+    ],
+    "20180416": [
+        {
+            "duration": 24355,
+            "priority": 5,
+            "video_id": "HQ3PcZetmkI"
+        }
+    ],
+    "20180417": [
+        {
+            "duration": 15308,
+            "priority": 5,
+            "video_id": "E7f1kyFynBc"
+        },
+        {
+            "duration": 15968,
+            "priority": 5,
+            "video_id": "c_Tu40eg5O4"
+        }
+    ],
+    "20180418": [
+        {
+            "duration": 21629,
+            "priority": 5,
+            "video_id": "EMc77f0-hQs"
+        },
+        {
+            "duration": 12841,
+            "priority": 5,
+            "video_id": "ugLHJs58ks8"
+        }
+    ],
+    "20180419": [
+        {
+            "duration": 19710,
+            "priority": 5,
+            "video_id": "8HK_LzwpJiA"
+        }
+    ],
+    "20180420": [
+        {
+            "duration": 26918,
+            "priority": 5,
+            "video_id": "G8uD-4foLig"
+        }
+    ],
+    "20180421": [
+        {
+            "duration": 19273,
+            "priority": 5,
+            "video_id": "fOXE8x-GriE"
+        },
+        {
+            "duration": 16210,
+            "priority": 5,
+            "video_id": "Iwaz35LvB-s"
+        }
+    ],
+    "20180422": [
+        {
+            "duration": 20577,
+            "priority": 5,
+            "video_id": "gQ6FBA7Tags"
+        },
+        {
+            "duration": 16593,
+            "priority": 5,
+            "video_id": "Do78JCzg2Zg"
+        }
+    ],
+    "20180503": [
+        {
+            "duration": 23447,
+            "priority": 5,
+            "video_id": "EIOzFw2B_Ek"
+        }
+    ],
+    "20180602": [
+        {
+            "duration": 20842,
+            "priority": 5,
+            "video_id": "CZHkXFhnEVY"
+        }
+    ],
+    "20180630": [
+        {
+            "duration": 9470,
+            "priority": 5,
+            "video_id": "jxF_wDHJw2w"
+        }
+    ],
+    "20180702": [
+        {
+            "duration": 19781,
+            "priority": 2,
+            "video_id": "Vy5zapoU5U4"
+        },
+        {
+            "duration": 10310,
+            "priority": 5,
+            "video_id": "6436bh8zg_E"
+        }
+    ],
+    "20180705": [
+        {
+            "duration": 39271,
+            "priority": 5,
+            "video_id": "Qv1Qc8vOQHk"
+        }
+    ],
+    "20180707": [
+        {
+            "duration": 39400,
+            "priority": 2,
+            "video_id": "Vcp07e5mppE"
+        }
+    ],
+    "20180709": [
+        {
+            "duration": 13149,
+            "priority": 2,
+            "video_id": "T1AMZD-eHfg"
+        },
+        {
+            "duration": 13154,
+            "priority": 5,
+            "video_id": "ojmhkTGndtM"
+        }
+    ],
+    "20180713": [
+        {
+            "duration": 10820,
+            "priority": 2,
+            "video_id": "hdzK6Z6Sxyg"
+        }
+    ],
+    "20180715": [
+        {
+            "duration": 15206,
+            "priority": 2,
+            "video_id": "6mGWWWpYLFo"
+        }
+    ],
+    "20180716": [
+        {
+            "duration": 18011,
+            "priority": 2,
+            "video_id": "-hcgMYtzWeA"
+        }
+    ],
+    "20180717": [
+        {
+            "duration": 18060,
+            "priority": 5,
+            "video_id": "vkMvwNkjvKQ"
+        }
+    ],
+    "20180719": [
+        {
+            "duration": 17175,
+            "priority": 5,
+            "video_id": "he9oUlyEAkU"
+        },
+        {
+            "duration": 17034,
+            "priority": 6,
+            "video_id": "34YpeaV520o"
+        }
+    ],
+    "20180720": [
+        {
+            "duration": 21887,
+            "priority": 2,
+            "video_id": "ivOhnKuLHWQ"
+        },
+        {
+            "duration": 21893,
+            "priority": 5,
+            "video_id": "KlKQkSVy_QA"
+        }
+    ],
+    "20180721": [
+        {
+            "duration": 19920,
+            "priority": 5,
+            "video_id": "RXLTVGNwlNw"
+        },
+        {
+            "duration": 19881,
+            "priority": 6,
+            "video_id": "SqyYR0i67rI"
+        }
+    ],
+    "20180722": [
+        {
+            "duration": 23960,
+            "priority": 2,
+            "video_id": "sXc1lZmedFk"
+        },
+        {
+            "duration": 23965,
+            "priority": 5,
+            "video_id": "SNrtuAYs8FE"
+        }
+    ],
+    "20180724": [
+        {
+            "duration": 25013,
+            "priority": 2,
+            "video_id": "JlZe0O426jQ"
+        },
+        {
+            "duration": 25182,
+            "priority": 5,
+            "video_id": "IUH2KTOV6kE"
+        }
+    ],
+    "20180725": [
+        {
+            "duration": 25453,
+            "priority": 2,
+            "video_id": "MWEh9yfZZqE"
+        },
+        {
+            "duration": 25389,
+            "priority": 5,
+            "video_id": "oxajxfc4GVs"
+        }
+    ],
+    "20180727": [
+        {
+            "duration": 32290,
+            "priority": 5,
+            "video_id": "OVaHDaqE5rg"
+        }
+    ],
+    "20180831": [
+        {
+            "duration": 11890,
+            "priority": 2,
+            "video_id": "kTF72WzXtQU"
+        }
+    ],
+    "20180901": [
+        {
+            "duration": 16074,
+            "priority": 5,
+            "video_id": "1IFl6yaA4m4"
+        }
+    ],
+    "20180902": [
+        {
+            "duration": 23772,
+            "priority": 5,
+            "video_id": "DZKxs773PGM"
+        }
+    ],
+    "20180903": [
+        {
+            "duration": 16796,
+            "priority": 5,
+            "video_id": "0d5wJhMI03c"
+        }
+    ],
+    "20180904": [
+        {
+            "duration": 19095,
+            "priority": 5,
+            "video_id": "k9Z8HF2CjiM"
+        }
+    ],
+    "20180905": [
+        {
+            "duration": 10364,
+            "priority": 5,
+            "video_id": "y3OwT2bfNck"
+        }
+    ],
+    "20180907": [
+        {
+            "duration": 13545,
+            "priority": 5,
+            "video_id": "kNNrY_oVTKY"
+        }
+    ],
+    "20180912": [
+        {
+            "duration": 18462,
+            "priority": 5,
+            "video_id": "n_D7NyY5c2Q"
+        },
+        {
+            "duration": 18455,
+            "priority": 6,
+            "video_id": "0pbCDxcIV8Y"
+        }
+    ],
+    "20180913": [
+        {
+            "duration": 24017,
+            "priority": 5,
+            "video_id": "goWoWF6lziQ"
+        },
+        {
+            "duration": 23915,
+            "priority": 6,
+            "video_id": "Cmy87srgl8A"
+        }
+    ],
+    "20180914": [
+        {
+            "duration": 21592,
+            "priority": 2,
+            "video_id": "eM3FTzUutKw"
+        },
+        {
+            "duration": 21599,
+            "priority": 5,
+            "video_id": "H-PUPNXcZos"
+        }
+    ],
+    "20180915": [
+        {
+            "duration": 21728,
+            "priority": 5,
+            "video_id": "cEsQS9IbXrc"
+        },
+        {
+            "duration": 21722,
+            "priority": 6,
+            "video_id": "XfDFNDYp0os"
+        }
+    ],
+    "20180917": [
+        {
+            "duration": 18255,
+            "priority": 2,
+            "video_id": "8MVBSRnR4C4"
+        },
+        {
+            "duration": 18262,
+            "priority": 5,
+            "video_id": "Rx3_E7JG57g"
+        }
+    ],
+    "20180918": [
+        {
+            "duration": 21770,
+            "priority": 5,
+            "video_id": "pdeIjV1MD5w"
+        },
+        {
+            "duration": 21763,
+            "priority": 6,
+            "video_id": "adGs1PFkfpM"
+        }
+    ],
+    "20180919": [
+        {
+            "duration": 15511,
+            "priority": 5,
+            "video_id": "o65_s4hDkYk"
+        },
+        {
+            "duration": 15505,
+            "priority": 6,
+            "video_id": "zAWw3DlfUc0"
+        }
+    ],
+    "20180920": [
+        {
+            "duration": 21879,
+            "priority": 5,
+            "video_id": "Wz_Buhqjb6s"
+        },
+        {
+            "duration": 21872,
+            "priority": 6,
+            "video_id": "D0yaBzZIS6Q"
+        }
+    ],
+    "20180921": [
+        {
+            "duration": 24650,
+            "priority": 5,
+            "video_id": "mkeU9sClFY0"
+        },
+        {
+            "duration": 24642,
+            "priority": 6,
+            "video_id": "uX_1DDYTydg"
+        }
+    ],
+    "20180922": [
+        {
+            "duration": 25153,
+            "priority": 5,
+            "video_id": "ZkeMIpK85FM"
+        },
+        {
+            "duration": 25146,
+            "priority": 6,
+            "video_id": "BGmRnMCXo8c"
+        }
+    ],
+    "20181005": [
+        {
+            "duration": 34948,
+            "priority": 2,
+            "video_id": "E4T915YO_aE"
+        },
+        {
+            "duration": 18619,
+            "priority": 5,
+            "video_id": "mTNtPT-HQag"
+        }
+    ],
+    "20181006": [
+        {
+            "duration": 16324,
+            "priority": 5,
+            "video_id": "jRWmkju96Dg"
+        }
+    ],
+    "20181007": [
+        {
+            "duration": 17274,
+            "priority": 5,
+            "video_id": "LZIuxy2QQp8"
+        }
+    ],
+    "20181008": [
+        {
+            "duration": 14944,
+            "priority": 5,
+            "video_id": "Us48ZjWzbzs"
+        }
+    ],
+    "20181010": [
+        {
+            "duration": 20221,
+            "priority": 5,
+            "video_id": "e2I2AQYutU0"
+        }
+    ],
+    "20181011": [
+        {
+            "duration": 19073,
+            "priority": 5,
+            "video_id": "KUuQLYN2Hj8"
+        }
+    ],
+    "20181012": [
+        {
+            "duration": 19106,
+            "priority": 5,
+            "video_id": "eWzjzmrVSOc"
+        }
+    ],
+    "20181023": [
+        {
+            "duration": 25427,
+            "priority": 2,
+            "video_id": "pwJpwoUL1yg"
+        },
+        {
+            "duration": 25427,
+            "priority": 5,
+            "video_id": "jzfyq8uros0"
+        }
+    ],
+    "20181024": [
+        {
+            "duration": 10815,
+            "priority": 5,
+            "video_id": "nA-oo_IFLEI"
+        }
+    ],
+    "20181025": [
+        {
+            "duration": 18707,
+            "priority": 5,
+            "video_id": "dLkmBNaBUxk"
+        }
+    ],
+    "20181026": [
+        {
+            "duration": 18436,
+            "priority": 5,
+            "video_id": "XexWFTW-5NM"
+        }
+    ],
+    "20181027": [
+        {
+            "duration": 18100,
+            "priority": 5,
+            "video_id": "Pnwo77OM11I"
+        }
+    ],
+    "20181028": [
+        {
+            "duration": 19342,
+            "priority": 5,
+            "video_id": "0BNMzyy9bg0"
+        }
+    ],
+    "20181101": [
+        {
+            "duration": 21451,
+            "priority": 5,
+            "video_id": "rqLdLlho_e0"
+        },
+        {
+            "duration": 21444,
+            "priority": 6,
+            "video_id": "BS5dKRuAnzg"
+        }
+    ],
+    "20181102": [
+        {
+            "duration": 19129,
+            "priority": 5,
+            "video_id": "9SlbVhSkVxE"
+        },
+        {
+            "duration": 19123,
+            "priority": 6,
+            "video_id": "U3zzZID3M30"
+        }
+    ],
+    "20181103": [
+        {
+            "duration": 13777,
+            "priority": 5,
+            "video_id": "go-1GornEgk"
+        },
+        {
+            "duration": 13769,
+            "priority": 6,
+            "video_id": "ZeE7B8neSuQ"
+        }
+    ],
+    "20181104": [
+        {
+            "duration": 19985,
+            "priority": 5,
+            "video_id": "oMCD6UxUtGs"
+        },
+        {
+            "duration": 20001,
+            "priority": 6,
+            "video_id": "kt5eW7965Ts"
+        }
+    ],
+    "20181106": [
+        {
+            "duration": 17934,
+            "priority": 5,
+            "video_id": "CzbcqcZGtIM"
+        },
+        {
+            "duration": 17927,
+            "priority": 6,
+            "video_id": "7x1G4rIo-tg"
+        }
+    ],
+    "20181108": [
+        {
+            "duration": 15331,
+            "priority": 5,
+            "video_id": "u9R1OY8_KF4"
+        },
+        {
+            "duration": 15322,
+            "priority": 6,
+            "video_id": "AWP99glBTOg"
+        }
+    ],
+    "20181109": [
+        {
+            "duration": 17790,
+            "priority": 5,
+            "video_id": "hkUq5N0bwWM"
+        },
+        {
+            "duration": 17719,
+            "priority": 6,
+            "video_id": "gF6sK0V1_pE"
+        }
+    ],
+    "20181111": [
+        {
+            "duration": 22899,
+            "priority": 5,
+            "video_id": "bynSa45WqnE"
+        },
+        {
+            "duration": 22892,
+            "priority": 6,
+            "video_id": "Dn3OSDDSwMo"
+        }
+    ],
+    "20181112": [
+        {
+            "duration": 16267,
+            "priority": 5,
+            "video_id": "BY4PTDEvtQM"
+        },
+        {
+            "duration": 16260,
+            "priority": 6,
+            "video_id": "myupxBd4jjs"
+        }
+    ],
+    "20181113": [
+        {
+            "duration": 20066,
+            "priority": 5,
+            "video_id": "i331lIMoV9Y"
+        },
+        {
+            "duration": 20058,
+            "priority": 6,
+            "video_id": "HfJLsQ0xsVg"
+        }
+    ],
+    "20181115": [
+        {
+            "duration": 16018,
+            "priority": 5,
+            "video_id": "eU1fQsBg3C0"
+        },
+        {
+            "duration": 16011,
+            "priority": 6,
+            "video_id": "yz0JFeo74uc"
+        }
+    ],
+    "20181116": [
+        {
+            "duration": 21856,
+            "priority": 5,
+            "video_id": "NR7cUiy4LtM"
+        },
+        {
+            "duration": 21848,
+            "priority": 6,
+            "video_id": "WtiZv6cDIBI"
+        }
+    ],
+    "20181117": [
+        {
+            "duration": 31168,
+            "priority": 5,
+            "video_id": "8FveB6L_Qww"
+        },
+        {
+            "duration": 31162,
+            "priority": 6,
+            "video_id": "KI0zU0a54Jo"
+        }
+    ],
+    "20181128": [
+        {
+            "duration": 25083,
+            "priority": 5,
+            "video_id": "3nED7jictlk"
+        }
+    ],
+    "20181212": [
+        {
+            "duration": 9921,
+            "priority": 5,
+            "video_id": "mzMYY5EkUug"
+        }
+    ],
+    "20181213": [
+        {
+            "duration": 12964,
+            "priority": 5,
+            "video_id": "JikGxa7bWUg"
+        }
+    ],
+    "20181214": [
+        {
+            "duration": 12431,
+            "priority": 5,
+            "video_id": "TwVWplIJlYE"
+        }
+    ],
+    "20181215": [
+        {
+            "duration": 12332,
+            "priority": 5,
+            "video_id": "O6GwEMF29WA"
+        }
+    ],
+    "20181217": [
+        {
+            "duration": 12150,
+            "priority": 5,
+            "video_id": "z1nqBXSviIk"
+        }
+    ],
+    "20181218": [
+        {
+            "duration": 15522,
+            "priority": 5,
+            "video_id": "91zHB8napC4"
+        }
+    ],
+    "20181219": [
+        {
+            "duration": 12633,
+            "priority": 5,
+            "video_id": "DC-G6t6jnE0"
+        }
+    ],
+    "20181220": [
+        {
+            "duration": 13167,
+            "priority": 5,
+            "video_id": "yBFnWzU5L3g"
+        }
+    ],
+    "20190104": [
+        {
+            "duration": 21612,
+            "priority": 5,
+            "video_id": "enW-XQ_EI1o"
+        }
+    ],
+    "20190108": [
+        {
+            "duration": 23998,
+            "priority": 5,
+            "video_id": "Ul4diFiUazI"
+        }
+    ],
+    "20190109": [
+        {
+            "duration": 11516,
+            "priority": 5,
+            "video_id": "hsCrHx7lNec"
+        }
+    ],
+    "20190110": [
+        {
+            "duration": 12752,
+            "priority": 5,
+            "video_id": "KYRdR-pW5PI"
+        }
+    ],
+    "20190112": [
+        {
+            "duration": 12457,
+            "priority": 5,
+            "video_id": "zO5QWTOS2Z0"
+        }
+    ],
+    "20190113": [
+        {
+            "duration": 12046,
+            "priority": 5,
+            "video_id": "KmHhTiXgfp0"
+        }
+    ],
+    "20190120": [
+        {
+            "duration": 12753,
+            "priority": 5,
+            "video_id": "Lx4uFHy7r-8"
+        }
+    ],
+    "20190121": [
+        {
+            "duration": 11062,
+            "priority": 5,
+            "video_id": "0-82Jtfmyfc"
+        }
+    ],
+    "20190122": [
+        {
+            "duration": 13349,
+            "priority": 5,
+            "video_id": "9n7lo-to6jE"
+        }
+    ],
+    "20190123": [
+        {
+            "duration": 14563,
+            "priority": 5,
+            "video_id": "_-kMPYSESfw"
+        }
+    ],
+    "20190124": [
+        {
+            "duration": 11828,
+            "priority": 5,
+            "video_id": "GKLsmhctGug"
+        }
+    ],
+    "20190125": [
+        {
+            "duration": 12082,
+            "priority": 5,
+            "video_id": "K5fjiLRDwKA"
+        }
+    ],
+    "20190126": [
+        {
+            "duration": 11526,
+            "priority": 5,
+            "video_id": "Q59rIAjHqdk"
+        }
+    ],
+    "20190127": [
+        {
+            "duration": 11117,
+            "priority": 5,
+            "video_id": "Z03I2m9PvQc"
+        }
+    ],
+    "20190128": [
+        {
+            "duration": 12756,
+            "priority": 5,
+            "video_id": "Fhvu3YUB8iw"
+        }
+    ],
+    "20190203": [
+        {
+            "duration": 11638,
+            "priority": 5,
+            "video_id": "6Df4awX3HME"
+        }
+    ],
+    "20190204": [
+        {
+            "duration": 14246,
+            "priority": 5,
+            "video_id": "sZw_nKWeE6c"
+        }
+    ],
+    "20190207": [
+        {
+            "duration": 12003,
+            "priority": 5,
+            "video_id": "NoJDaC6OqCM"
+        }
+    ],
+    "20190209": [
+        {
+            "duration": 11053,
+            "priority": 5,
+            "video_id": "Ebg1Ra6tcvc"
+        }
+    ],
+    "20190213": [
+        {
+            "duration": 12925,
+            "priority": 5,
+            "video_id": "5JVSYHHTFU8"
+        }
+    ],
+    "20190215": [
+        {
+            "duration": 13278,
+            "priority": 5,
+            "video_id": "QNQxad4Katc"
+        }
+    ],
+    "20190217": [
+        {
+            "duration": 18571,
+            "priority": 5,
+            "video_id": "9S5XDUtUcBQ"
+        }
+    ],
+    "20190218": [
+        {
+            "duration": 15901,
+            "priority": 5,
+            "video_id": "GA9d4iuLask"
+        }
+    ],
+    "20190219": [
+        {
+            "duration": 14692,
+            "priority": 5,
+            "video_id": "qSkUimvRYzc"
+        }
+    ],
+    "20190220": [
+        {
+            "duration": 13874,
+            "priority": 5,
+            "video_id": "e9Zzxxqjql0"
+        }
+    ],
+    "20190221": [
+        {
+            "duration": 6880,
+            "priority": 5,
+            "video_id": "WFDKv2aJEBg"
+        }
+    ],
+    "20190222": [
+        {
+            "duration": 20341,
+            "priority": 5,
+            "video_id": "2W-fqzCKPfI"
+        }
+    ],
+    "20190826": [
+        {
+            "duration": 12297,
+            "priority": 5,
+            "video_id": "kdOkHGS7kiw"
+        }
+    ],
+    "20190827": [
+        {
+            "duration": 11414,
+            "priority": 5,
+            "video_id": "wyxejQEn-dw"
+        }
+    ],
+    "20190831": [
+        {
+            "duration": 11227,
+            "priority": 5,
+            "video_id": "MSfoHNbBrno"
+        }
+    ],
+    "20190903": [
+        {
+            "duration": 12537,
+            "priority": 5,
+            "video_id": "gTfynWHaQnc"
+        }
+    ],
+    "20190904": [
+        {
+            "duration": 12020,
+            "priority": 5,
+            "video_id": "LSUXn_wAUZk"
+        }
+    ],
+    "20190905": [
+        {
+            "duration": 11023,
+            "priority": 5,
+            "video_id": "tj3PKQqCsc0"
+        }
+    ],
+    "20190910": [
+        {
+            "duration": 12767,
+            "priority": 5,
+            "video_id": "zsFJinX45u8"
+        }
+    ],
+    "20190911": [
+        {
+            "duration": 11396,
+            "priority": 5,
+            "video_id": "6sNZOH3X8FA"
+        }
+    ],
+    "20190912": [
+        {
+            "duration": 11577,
+            "priority": 5,
+            "video_id": "mikfKQQaT_g"
+        }
+    ],
+    "20190917": [
+        {
+            "duration": 11214,
+            "priority": 5,
+            "video_id": "tje7lcEKzJM"
+        }
+    ],
+    "20190918": [
+        {
+            "duration": 12576,
+            "priority": 5,
+            "video_id": "aU-Ja5Q75QM"
+        }
+    ],
+    "20190919": [
+        {
+            "duration": 27074,
+            "priority": 5,
+            "video_id": "YvglSh7cYIk"
+        }
+    ],
+    "20190920": [
+        {
+            "duration": 16381,
+            "priority": 2,
+            "video_id": "bBvVmIDi5gg"
+        }
+    ],
+    "20190924": [
+        {
+            "duration": 10867,
+            "priority": 5,
+            "video_id": "6cINhB3p0-4"
+        }
+    ],
+    "20190926": [
+        {
+            "duration": 13345,
+            "priority": 5,
+            "video_id": "eWngA153qiQ"
+        }
+    ],
+    "20190927": [
+        {
+            "duration": 15503,
+            "priority": 2,
+            "video_id": "Qya7ajnkq2M"
+        }
+    ],
+    "20191001": [
+        {
+            "duration": 11488,
+            "priority": 1,
+            "video_id": "3QJh4u4VHqg"
+        },
+        {
+            "duration": 11488,
+            "priority": 2,
+            "video_id": "K3eqhUqpND0"
+        }
+    ],
+    "20191002": [
+        {
+            "duration": 11934,
+            "priority": 5,
+            "video_id": "rIWmbbOkmH8"
+        }
+    ],
+    "20191003": [
+        {
+            "duration": 12257,
+            "priority": 1,
+            "video_id": "lubSZ9cLc84"
+        },
+        {
+            "duration": 12257,
+            "priority": 3,
+            "video_id": "l5b0vuei2mc"
+        }
+    ],
+    "20191004": [
+        {
+            "duration": 14550,
+            "priority": 2,
+            "video_id": "tdNtnbwxOmg"
+        }
+    ],
+    "20191008": [
+        {
+            "duration": 12116,
+            "priority": 1,
+            "video_id": "f-SWDJWOkV0"
+        },
+        {
+            "duration": 12116,
+            "priority": 3,
+            "video_id": "bVt5HBgvluE"
+        }
+    ],
+    "20191009": [
+        {
+            "duration": 11545,
+            "priority": 1,
+            "video_id": "s21yVmW7WMc"
+        },
+        {
+            "duration": 11545,
+            "priority": 3,
+            "video_id": "4BNdCvQT9_o"
+        }
+    ],
+    "20191010": [
+        {
+            "duration": 11748,
+            "priority": 1,
+            "video_id": "pA8kqSRGAh0"
+        },
+        {
+            "duration": 11748,
+            "priority": 3,
+            "video_id": "4s9EU7PZI1A"
+        }
+    ],
+    "20191011": [
+        {
+            "duration": 13642,
+            "priority": 2,
+            "video_id": "eurveYy86UE"
+        }
+    ],
+    "20191015": [
+        {
+            "duration": 19599,
+            "priority": 1,
+            "video_id": "guUvhDjJFpQ"
+        },
+        {
+            "duration": 19599,
+            "priority": 3,
+            "video_id": "oJM64i0F3Qc"
+        }
+    ],
+    "20191017": [
+        {
+            "duration": 18276,
+            "priority": 1,
+            "video_id": "WtMAa3iOBP4"
+        },
+        {
+            "duration": 18276,
+            "priority": 3,
+            "video_id": "e1h5TV28LH0"
+        }
+    ],
+    "20191018": [
+        {
+            "duration": 15592,
+            "priority": 2,
+            "video_id": "G9g4Leqa7_k"
+        }
+    ],
+    "20191022": [
+        {
+            "duration": 12669,
+            "priority": 1,
+            "video_id": "FbXg2uUNT70"
+        },
+        {
+            "duration": 12669,
+            "priority": 3,
+            "video_id": "iT6Bq69B9hg"
+        }
+    ],
+    "20191023": [
+        {
+            "duration": 14789,
+            "priority": 1,
+            "video_id": "Y7Lujs-7YJE"
+        },
+        {
+            "duration": 14789,
+            "priority": 3,
+            "video_id": "_eTxWL3Xmfo"
+        }
+    ],
+    "20191024": [
+        {
+            "duration": 19116,
+            "priority": 3,
+            "video_id": "N4ZyoYT7LAc"
+        }
+    ],
+    "20191025": [
+        {
+            "duration": 11365,
+            "priority": 2,
+            "video_id": "gVWpKSh78C4"
+        }
+    ],
+    "20191029": [
+        {
+            "duration": 16207,
+            "priority": 5,
+            "video_id": "pq3PQUotBTY"
+        }
+    ],
+    "20191030": [
+        {
+            "duration": 11512,
+            "priority": 2,
+            "video_id": "-E68PVlIn7k"
+        },
+        {
+            "duration": 11512,
+            "priority": 3,
+            "video_id": "Gy8jwlEIvs0"
+        }
+    ],
+    "20191031": [
+        {
+            "duration": 11900,
+            "priority": 2,
+            "video_id": "r1yicRzGPgA"
+        },
+        {
+            "duration": 11900,
+            "priority": 3,
+            "video_id": "YljdWwT4NLE"
+        }
+    ],
+    "20191101": [
+        {
+            "duration": 16380,
+            "priority": 2,
+            "video_id": "mF2b5__70Sg"
+        }
+    ],
+    "20191106": [
+        {
+            "duration": 27018,
+            "priority": 5,
+            "video_id": "e7qEvwEvAzA"
+        }
+    ],
+    "20191107": [
+        {
+            "duration": 18627,
+            "priority": 5,
+            "video_id": "9dY0ADRbZKg"
+        }
+    ],
+    "20191108": [
+        {
+            "duration": 25544,
+            "priority": 5,
+            "video_id": "kwPFX8ZF8nA"
+        }
+    ],
+    "20191109": [
+        {
+            "duration": 12438,
+            "priority": 2,
+            "video_id": "OH_h-4t2_cw"
+        },
+        {
+            "duration": 28124,
+            "priority": 5,
+            "video_id": "4RxL4UVdVNM"
+        }
+    ],
+    "20191110": [
+        {
+            "duration": 26738,
+            "priority": 5,
+            "video_id": "IHZdSnxd57A"
+        }
+    ],
+    "20191111": [
+        {
+            "duration": 27168,
+            "priority": 5,
+            "video_id": "12ygUscBsy8"
+        }
+    ],
+    "20191112": [
+        {
+            "duration": 25672,
+            "priority": 5,
+            "video_id": "4_QnlwUkIms"
+        }
+    ],
+    "20191114": [
+        {
+            "duration": 25851,
+            "priority": 5,
+            "video_id": "da83QTxE-z8"
+        }
+    ],
+    "20191116": [
+        {
+            "duration": 12320,
+            "priority": 2,
+            "video_id": "3l0ou0sIzjo"
+        }
+    ],
+    "20191122": [
+        {
+            "duration": 13414,
+            "priority": 2,
+            "video_id": "r0J7URc9HBA"
+        }
+    ],
+    "20191126": [
+        {
+            "duration": 33030,
+            "priority": 5,
+            "video_id": "wC3ok_FE-Jw"
+        }
+    ],
+    "20191203": [
+        {
+            "duration": 22451,
+            "priority": 5,
+            "video_id": "WabPCWuXmKc"
+        }
+    ],
+    "20191207": [
+        {
+            "duration": 14136,
+            "priority": 2,
+            "video_id": "7y7AAwn1OCE"
+        }
+    ],
+    "20191210": [
+        {
+            "duration": 23941,
+            "priority": 5,
+            "video_id": "zcg8wb_cD84"
+        }
+    ],
+    "20191211": [
+        {
+            "duration": 26077,
+            "priority": 5,
+            "video_id": "JHE7dwQ1MIc"
+        }
+    ],
+    "20191212": [
+        {
+            "duration": 13559,
+            "priority": 2,
+            "video_id": "TTWwXZJy58w"
+        }
+    ],
+    "20191214": [
+        {
+            "duration": 15744,
+            "priority": 2,
+            "video_id": "wemaW3oS9v0"
+        }
+    ],
+    "20191217": [
+        {
+            "duration": 11844,
+            "priority": 1,
+            "video_id": "FpgX-kBbZSo"
+        },
+        {
+            "duration": 11844,
+            "priority": 3,
+            "video_id": "ryuCWMnhbuw"
+        }
+    ],
+    "20191218": [
+        {
+            "duration": 11585,
+            "priority": 1,
+            "video_id": "L6RWjDaLPeU"
+        },
+        {
+            "duration": 11585,
+            "priority": 3,
+            "video_id": "rtkwEcr2Cls"
+        }
+    ],
+    "20191219": [
+        {
+            "duration": 11216,
+            "priority": 1,
+            "video_id": "FRUqDePAJc8"
+        },
+        {
+            "duration": 11216,
+            "priority": 3,
+            "video_id": "DrgLEisDAWc"
+        }
+    ],
+    "20191226": [
+        {
+            "duration": 12438,
+            "priority": 3,
+            "video_id": "Id1XL-TQ-pI"
+        }
+    ],
+    "20191228": [
+        {
+            "duration": 13444,
+            "priority": 2,
+            "video_id": "eC4Ke1DOZRQ"
+        }
+    ],
+    "20191231": [
+        {
+            "duration": 26772,
+            "priority": 3,
+            "video_id": "H1VoUZinnT8"
+        }
+    ],
+    "20200102": [
+        {
+            "duration": 11663,
+            "priority": 1,
+            "video_id": "E0CzEVwIlZI"
+        },
+        {
+            "duration": 11663,
+            "priority": 2,
+            "video_id": "IIS8Upreg6Q"
+        }
+    ],
+    "20200104": [
+        {
+            "duration": 14089,
+            "priority": 2,
+            "video_id": "yUgvQY6hQoY"
+        }
+    ],
+    "20200107": [
+        {
+            "duration": 11805,
+            "priority": 1,
+            "video_id": "FTfLakUCCFc"
+        },
+        {
+            "duration": 11805,
+            "priority": 3,
+            "video_id": "yFQgPSVmwZA"
+        }
+    ],
+    "20200108": [
+        {
+            "duration": 10907,
+            "priority": 1,
+            "video_id": "u8VNdxUwT0A"
+        },
+        {
+            "duration": 10907,
+            "priority": 3,
+            "video_id": "xGKrPFMS4vE"
+        }
+    ],
+    "20200109": [
+        {
+            "duration": 11214,
+            "priority": 1,
+            "video_id": "WpSxBpyx9ko"
+        },
+        {
+            "duration": 11214,
+            "priority": 3,
+            "video_id": "HIiaUuYyOb4"
+        }
+    ],
+    "20200114": [
+        {
+            "duration": 11941,
+            "priority": 1,
+            "video_id": "W7x68aEpZFo"
+        },
+        {
+            "duration": 11941,
+            "priority": 3,
+            "video_id": "2HhAQz4Kd0s"
+        }
+    ],
+    "20200115": [
+        {
+            "duration": 11590,
+            "priority": 1,
+            "video_id": "1dtLLoUBmMk"
+        },
+        {
+            "duration": 11590,
+            "priority": 3,
+            "video_id": "598NZNUL9S4"
+        }
+    ],
+    "20200116": [
+        {
+            "duration": 11898,
+            "priority": 1,
+            "video_id": "JCQ1M_P2_1U"
+        },
+        {
+            "duration": 11898,
+            "priority": 3,
+            "video_id": "UTY9mEXJIq0"
+        }
+    ],
+    "20200118": [
+        {
+            "duration": 14396,
+            "priority": 3,
+            "video_id": "SW7VDUrh9qU"
+        }
+    ],
+    "20200121": [
+        {
+            "duration": 11168,
+            "priority": 1,
+            "video_id": "7GtEvrYduRc"
+        },
+        {
+            "duration": 11168,
+            "priority": 3,
+            "video_id": "BRwu0FjJmJw"
+        }
+    ],
+    "20200123": [
+        {
+            "duration": 13394,
+            "priority": 1,
+            "video_id": "qZACPSrrLhA"
+        },
+        {
+            "duration": 13394,
+            "priority": 3,
+            "video_id": "dnv882DIomw"
+        }
+    ],
+    "20200128": [
+        {
+            "duration": 11239,
+            "priority": 1,
+            "video_id": "FFHTy8zrLpM"
+        },
+        {
+            "duration": 11239,
+            "priority": 3,
+            "video_id": "OqTTRIJkeWM"
+        }
+    ],
+    "20200129": [
+        {
+            "duration": 13295,
+            "priority": 1,
+            "video_id": "-6MyUjb53gk"
+        },
+        {
+            "duration": 13295,
+            "priority": 3,
+            "video_id": "xmX1MVPW9VQ"
+        }
+    ],
+    "20200130": [
+        {
+            "duration": 14039,
+            "priority": 1,
+            "video_id": "-ebFc__T4yE"
+        },
+        {
+            "duration": 14039,
+            "priority": 3,
+            "video_id": "ijqXT2pmjhU"
+        }
+    ],
+    "20200204": [
+        {
+            "duration": 11608,
+            "priority": 1,
+            "video_id": "PEG22bw3pKk"
+        },
+        {
+            "duration": 11609,
+            "priority": 3,
+            "video_id": "RBGkDo_VjkI"
+        }
+    ],
+    "20200205": [
+        {
+            "duration": 13071,
+            "priority": 1,
+            "video_id": "NfHaG7WJBtc"
+        },
+        {
+            "duration": 13071,
+            "priority": 3,
+            "video_id": "EdEvQYIGsn8"
+        }
+    ],
+    "20200206": [
+        {
+            "duration": 22843,
+            "priority": 1,
+            "video_id": "v4klI8ylJkI"
+        },
+        {
+            "duration": 22843,
+            "priority": 3,
+            "video_id": "jZCMZDmBvQw"
+        }
+    ],
+    "20200415": [
+        {
+            "duration": 14421,
+            "priority": 1,
+            "video_id": "4F4gMPetxxA"
+        }
+    ],
+    "20200416": [
+        {
+            "duration": 14906,
+            "priority": 1,
+            "video_id": "OmjjAVT1w7A"
+        }
+    ],
+    "20200417": [
+        {
+            "duration": 17170,
+            "priority": 1,
+            "video_id": "XgCBP4XQALE"
+        },
+        {
+            "duration": 15961,
+            "priority": 5,
+            "video_id": "sp5zGCYYTQI"
+        }
+    ],
+    "20200418": [
+        {
+            "duration": 16299,
+            "priority": 1,
+            "video_id": "YbHNk4Ts4q8"
+        },
+        {
+            "duration": 15678,
+            "priority": 5,
+            "video_id": "MxaVcEMOwd4"
+        }
+    ],
+    "20200419": [
+        {
+            "duration": 15720,
+            "priority": 1,
+            "video_id": "H1Fa8CaOJsM"
+        },
+        {
+            "duration": 15082,
+            "priority": 5,
+            "video_id": "_CyE-MUAdsM"
+        }
+    ],
+    "20200420": [
+        {
+            "duration": 17033,
+            "priority": 1,
+            "video_id": "zKb-RXSdzHk"
+        },
+        {
+            "duration": 16216,
+            "priority": 5,
+            "video_id": "Y3UC6kHnPAY"
+        }
+    ],
+    "20200611": [
+        {
+            "duration": 9956,
+            "priority": 1,
+            "video_id": "BIqKPqID1GY"
+        },
+        {
+            "duration": 9956,
+            "priority": 2,
+            "video_id": "SvggPMDXNfI"
+        }
+    ],
+    "20200613": [
+        {
+            "duration": 16755,
+            "priority": 1,
+            "video_id": "oTgownirAqQ"
+        }
+    ],
+    "20200818": [
+        {
+            "duration": 18324,
+            "priority": 1,
+            "video_id": "8NxRDVeYi9M"
+        },
+        {
+            "duration": 17060,
+            "priority": 5,
+            "video_id": "HYO37qNU-TA"
+        }
+    ],
+    "20200819": [
+        {
+            "duration": 22597,
+            "priority": 1,
+            "video_id": "DmIPoF4fhXg"
+        },
+        {
+            "duration": 21518,
+            "priority": 5,
+            "video_id": "06NfR3qzErw"
+        }
+    ],
+    "20200820": [
+        {
+            "duration": 20413,
+            "priority": 1,
+            "video_id": "vbBh8TI2k0o"
+        },
+        {
+            "duration": 19163,
+            "priority": 5,
+            "video_id": "pf26m0pSijI"
+        }
+    ],
+    "20200821": [
+        {
+            "duration": 20481,
+            "priority": 1,
+            "video_id": "znB-T62uR6M"
+        },
+        {
+            "duration": 19481,
+            "priority": 5,
+            "video_id": "KVS2_l7OnvM"
+        }
+    ],
+    "20200822": [
+        {
+            "duration": 22191,
+            "priority": 1,
+            "video_id": "cgyzQvBDQxI"
+        },
+        {
+            "duration": 22166,
+            "priority": 5,
+            "video_id": "Maz-YJFPQeY"
+        }
+    ],
+    "20200823": [
+        {
+            "duration": 16538,
+            "priority": 1,
+            "video_id": "qSDlg20CW6M"
+        },
+        {
+            "duration": 15745,
+            "priority": 5,
+            "video_id": "JBqF0TJ4V9k"
+        }
+    ],
+    "20200901": [
+        {
+            "duration": 14286,
+            "priority": 1,
+            "video_id": "b0aC4J_fUxU"
+        },
+        {
+            "duration": 13669,
+            "priority": 5,
+            "video_id": "caJ3FIeesXM"
+        }
+    ],
+    "20200902": [
+        {
+            "duration": 16485,
+            "priority": 1,
+            "video_id": "uwLZgBfRahw"
+        },
+        {
+            "duration": 16485,
+            "priority": 6,
+            "video_id": "b3_j4fZW1Dw"
+        }
+    ],
+    "20200903": [
+        {
+            "duration": 16026,
+            "priority": 1,
+            "video_id": "o4M4qcVFs8s"
+        },
+        {
+            "duration": 16026,
+            "priority": 6,
+            "video_id": "OnwUdYCbriY"
+        }
+    ],
+    "20200904": [
+        {
+            "duration": 15699,
+            "priority": 1,
+            "video_id": "UvYU-53M2c0"
+        },
+        {
+            "duration": 15699,
+            "priority": 6,
+            "video_id": "cYLjuVVGjZU"
+        }
+    ],
+    "20200908": [
+        {
+            "duration": 16547,
+            "priority": 1,
+            "video_id": "cIDyfEwsBeE"
+        },
+        {
+            "duration": 16547,
+            "priority": 6,
+            "video_id": "TmZTMqWbsqM"
+        }
+    ],
+    "20200909": [
+        {
+            "duration": 18065,
+            "priority": 1,
+            "video_id": "oYVFcTnrs0E"
+        },
+        {
+            "duration": 18065,
+            "priority": 6,
+            "video_id": "IiwKsNDB9UE"
+        }
+    ],
+    "20200910": [
+        {
+            "duration": 16649,
+            "priority": 1,
+            "video_id": "ubfa5tPuQcA"
+        },
+        {
+            "duration": 16649,
+            "priority": 6,
+            "video_id": "FM-3kDIt9FY"
+        }
+    ],
+    "20200911": [
+        {
+            "duration": 17263,
+            "priority": 1,
+            "video_id": "7uEeIu0RJCk"
+        },
+        {
+            "duration": 17302,
+            "priority": 6,
+            "video_id": "j1y0HQa_KtU"
+        }
+    ],
+    "20200915": [
+        {
+            "duration": 17160,
+            "priority": 1,
+            "video_id": "KjI7VwM-5Bk"
+        },
+        {
+            "duration": 17160,
+            "priority": 6,
+            "video_id": "XxFW_9fu2EE"
+        }
+    ],
+    "20200916": [
+        {
+            "duration": 18663,
+            "priority": 1,
+            "video_id": "cfdJxGtOLMg"
+        },
+        {
+            "duration": 18663,
+            "priority": 6,
+            "video_id": "f-pOTlB1ACk"
+        }
+    ],
+    "20200918": [
+        {
+            "duration": 20872,
+            "priority": 1,
+            "video_id": "wzkwaume9v8"
+        },
+        {
+            "duration": 20873,
+            "priority": 7,
+            "video_id": "Ss5Uwr89El8"
+        }
+    ],
+    "20200922": [
+        {
+            "duration": 14801,
+            "priority": 1,
+            "video_id": "0IF-Fy4FBig"
+        },
+        {
+            "duration": 14801,
+            "priority": 6,
+            "video_id": "PRd7cdWFMNg"
+        }
+    ],
+    "20200923": [
+        {
+            "duration": 15201,
+            "priority": 1,
+            "video_id": "ngXmdkxdc9M"
+        },
+        {
+            "duration": 15201,
+            "priority": 6,
+            "video_id": "QpHeX4S9iZo"
+        }
+    ],
+    "20200924": [
+        {
+            "duration": 16666,
+            "priority": 1,
+            "video_id": "6eXwIUm91sE"
+        },
+        {
+            "duration": 16666,
+            "priority": 6,
+            "video_id": "Wc9grAsBJGU"
+        }
+    ],
+    "20200925": [
+        {
+            "duration": 19335,
+            "priority": 1,
+            "video_id": "qVFhvLOWCGw"
+        },
+        {
+            "duration": 19335,
+            "priority": 6,
+            "video_id": "Ft9LN5-gf8M"
+        }
+    ],
+    "20200929": [
+        {
+            "duration": 12895,
+            "priority": 1,
+            "video_id": "jD_dx3BiRFI"
+        },
+        {
+            "duration": 12895,
+            "priority": 6,
+            "video_id": "wlsDSjO0b9c"
+        }
+    ],
+    "20200930": [
+        {
+            "duration": 15720,
+            "priority": 1,
+            "video_id": "uaLHv9WuuEg"
+        },
+        {
+            "duration": 15720,
+            "priority": 6,
+            "video_id": "u1zqjtZAjL0"
+        }
+    ],
+    "20201001": [
+        {
+            "duration": 25095,
+            "priority": 1,
+            "video_id": "zXlY1_u62fQ"
+        },
+        {
+            "duration": 25095,
+            "priority": 6,
+            "video_id": "MuovHuuUZqw"
+        }
+    ],
+    "20201006": [
+        {
+            "duration": 19973,
+            "priority": 1,
+            "video_id": "6DcZo7bJeF0"
+        },
+        {
+            "duration": 19973,
+            "priority": 2,
+            "video_id": "U41fVHVi0jg"
+        }
+    ],
+    "20201007": [
+        {
+            "duration": 18488,
+            "priority": 1,
+            "video_id": "cpcrIZTGpZU"
+        },
+        {
+            "duration": 18488,
+            "priority": 2,
+            "video_id": "hfG5CVAMPck"
+        }
+    ],
+    "20201008": [
+        {
+            "duration": 19643,
+            "priority": 1,
+            "video_id": "SPwhbxBX79s"
+        },
+        {
+            "duration": 19643,
+            "priority": 2,
+            "video_id": "e9jpY92ijzQ"
+        }
+    ],
+    "20201009": [
+        {
+            "duration": 19795,
+            "priority": 1,
+            "video_id": "C9-VCmZwNao"
+        },
+        {
+            "duration": 19796,
+            "priority": 2,
+            "video_id": "olp7KR0GwOQ"
+        }
+    ],
+    "20201019": [
+        {
+            "duration": 14693,
+            "priority": 1,
+            "video_id": "AQGlh5L_SFM"
+        },
+        {
+            "duration": 14694,
+            "priority": 2,
+            "video_id": "Kupiz80hV28"
+        }
+    ],
+    "20201020": [
+        {
+            "duration": 19544,
+            "priority": 1,
+            "video_id": "oQoSsdfhOrM"
+        },
+        {
+            "duration": 1872,
+            "priority": 1,
+            "video_id": "3kagnpyNokg"
+        },
+        {
+            "duration": 19544,
+            "priority": 2,
+            "video_id": "Rphu_yijMWY"
+        },
+        {
+            "duration": 1872,
+            "priority": 2,
+            "video_id": "q_w_gxdQCQU"
+        }
+    ],
+    "20201021": [
+        {
+            "duration": 17234,
+            "priority": 1,
+            "video_id": "CkuMn59nL3U"
+        },
+        {
+            "duration": 17234,
+            "priority": 2,
+            "video_id": "ia86Jvnl2DY"
+        }
+    ],
+    "20201022": [
+        {
+            "duration": 17603,
+            "priority": 1,
+            "video_id": "keCfDqyzLvM"
+        },
+        {
+            "duration": 17603,
+            "priority": 2,
+            "video_id": "NsqvT2IphP4"
+        }
+    ],
+    "20201023": [
+        {
+            "duration": 16490,
+            "priority": 1,
+            "video_id": "g9LP4neqKFo"
+        },
+        {
+            "duration": 16490,
+            "priority": 2,
+            "video_id": "0ZgCkKC9M7o"
+        }
+    ],
+    "20201027": [
+        {
+            "duration": 18545,
+            "priority": 1,
+            "video_id": "pPJPoJThf5E"
+        },
+        {
+            "duration": 18545,
+            "priority": 2,
+            "video_id": "Dhljh4qWVBQ"
+        }
+    ],
+    "20201028": [
+        {
+            "duration": 12790,
+            "priority": 1,
+            "video_id": "WD_W1AC1k_U"
+        },
+        {
+            "duration": 12790,
+            "priority": 2,
+            "video_id": "tsbRnUMGbuw"
+        }
+    ],
+    "20201029": [
+        {
+            "duration": 17976,
+            "priority": 1,
+            "video_id": "VLcTzS41SGY"
+        },
+        {
+            "duration": 17976,
+            "priority": 2,
+            "video_id": "0Z3Y94d0nD0"
+        }
+    ],
+    "20201030": [
+        {
+            "duration": 13934,
+            "priority": 1,
+            "video_id": "BFFoDck-nvg"
+        },
+        {
+            "duration": 13934,
+            "priority": 2,
+            "video_id": "H3CJcI-kuV8"
+        }
+    ],
+    "20201103": [
+        {
+            "duration": 16328,
+            "priority": 1,
+            "video_id": "7HIrs2wrt8E"
+        },
+        {
+            "duration": 16328,
+            "priority": 2,
+            "video_id": "6kDMGp8Lu3s"
+        }
+    ],
+    "20201104": [
+        {
+            "duration": 16662,
+            "priority": 1,
+            "video_id": "XiEkJC-cIA8"
+        },
+        {
+            "duration": 16663,
+            "priority": 2,
+            "video_id": "njVmGCipaBM"
+        }
+    ],
+    "20201105": [
+        {
+            "duration": 15322,
+            "priority": 1,
+            "video_id": "nqYO16UnaEg"
+        },
+        {
+            "duration": 15322,
+            "priority": 2,
+            "video_id": "IB8q81dsBWE"
+        }
+    ],
+    "20201106": [
+        {
+            "duration": 16038,
+            "priority": 1,
+            "video_id": "cL49eyb3lCQ"
+        },
+        {
+            "duration": 16038,
+            "priority": 2,
+            "video_id": "fD70xLyxo10"
+        }
+    ],
+    "20201110": [
+        {
+            "duration": 15999,
+            "priority": 1,
+            "video_id": "wd9grmn4Zv8"
+        },
+        {
+            "duration": 15999,
+            "priority": 2,
+            "video_id": "JZcYSG1WCEc"
+        }
+    ],
+    "20201111": [
+        {
+            "duration": 15401,
+            "priority": 1,
+            "video_id": "GI2lSY8eJOI"
+        },
+        {
+            "duration": 15401,
+            "priority": 2,
+            "video_id": "1QSO8Bl1WMY"
+        }
+    ],
+    "20201112": [
+        {
+            "duration": 15796,
+            "priority": 1,
+            "video_id": "E9tOJD7gkf0"
+        },
+        {
+            "duration": 15796,
+            "priority": 2,
+            "video_id": "1-sFePtBk10"
+        }
+    ],
+    "20201113": [
+        {
+            "duration": 18788,
+            "priority": 1,
+            "video_id": "M7UNax9cKoU"
+        },
+        {
+            "duration": 18834,
+            "priority": 2,
+            "video_id": "vUbetWwDEW4"
+        }
+    ],
+    "20201117": [
+        {
+            "duration": 18362,
+            "priority": 1,
+            "video_id": "cxb-jomI-L8"
+        },
+        {
+            "duration": 18363,
+            "priority": 2,
+            "video_id": "rafb9M8UNWg"
+        }
+    ],
+    "20201118": [
+        {
+            "duration": 19278,
+            "priority": 1,
+            "video_id": "lZXMkgIFFeU"
+        },
+        {
+            "duration": 19278,
+            "priority": 2,
+            "video_id": "9q-OvyAbuuY"
+        }
+    ],
+    "20201119": [
+        {
+            "duration": 20507,
+            "priority": 1,
+            "video_id": "rLMgIeVa9-U"
+        },
+        {
+            "duration": 20507,
+            "priority": 2,
+            "video_id": "bKw_Fo89x2k"
+        }
+    ],
+    "20201120": [
+        {
+            "duration": 26370,
+            "priority": 1,
+            "video_id": "0-R7t6jS8oQ"
+        },
+        {
+            "duration": 26370,
+            "priority": 2,
+            "video_id": "E2JGMjBRHCA"
+        }
+    ],
+    "20201201": [
+        {
+            "duration": 15078,
+            "priority": 1,
+            "video_id": "AUfcCl1w32s"
+        },
+        {
+            "duration": 15078,
+            "priority": 2,
+            "video_id": "LZYaoASZPLA"
+        }
+    ],
+    "20201202": [
+        {
+            "duration": 12809,
+            "priority": 1,
+            "video_id": "kqHeFlWwMaQ"
+        },
+        {
+            "duration": 12809,
+            "priority": 2,
+            "video_id": "KU_UyVcIymw"
+        }
+    ],
+    "20201203": [
+        {
+            "duration": 14795,
+            "priority": 1,
+            "video_id": "wS5g4wCfnOQ"
+        },
+        {
+            "duration": 14796,
+            "priority": 2,
+            "video_id": "MuoWhj53zxo"
+        }
+    ],
+    "20201204": [
+        {
+            "duration": 13493,
+            "priority": 1,
+            "video_id": "wL-KWDuOoOM"
+        },
+        {
+            "duration": 13494,
+            "priority": 2,
+            "video_id": "8GaZ6ustfTI"
+        }
+    ],
+    "20201207": [
+        {
+            "duration": 21587,
+            "priority": 1,
+            "video_id": "dV0W3q_Q0kI"
+        },
+        {
+            "duration": 21587,
+            "priority": 2,
+            "video_id": "KrG1m7Mhkmc"
+        }
+    ],
+    "20201208": [
+        {
+            "duration": 19378,
+            "priority": 1,
+            "video_id": "iDQOjEwOxto"
+        },
+        {
+            "duration": 19379,
+            "priority": 2,
+            "video_id": "QLV0PKN-0A4"
+        }
+    ],
+    "20201209": [
+        {
+            "duration": 28025,
+            "priority": 1,
+            "video_id": "J7St3XRTarc"
+        },
+        {
+            "duration": 28200,
+            "priority": 2,
+            "video_id": "wYysILjxa1w"
+        }
+    ],
+    "20201210": [
+        {
+            "duration": 5133,
+            "priority": 1,
+            "video_id": "MHXP3t1fwNc"
+        },
+        {
+            "duration": 17991,
+            "priority": 2,
+            "video_id": "jLISOsxJhUA"
+        },
+        {
+            "duration": 12885,
+            "priority": 2,
+            "video_id": "TTRjvGWwMSg"
+        },
+        {
+            "duration": 12885,
+            "priority": 4,
+            "video_id": "lpNh5IfeH0E"
+        }
+    ],
+    "20201215": [
+        {
+            "duration": 12195,
+            "priority": 1,
+            "video_id": "OE7DT5H1PLw"
+        },
+        {
+            "duration": 12195,
+            "priority": 2,
+            "video_id": "2S1LfuwLcF0"
+        }
+    ],
+    "20201216": [
+        {
+            "duration": 14898,
+            "priority": 1,
+            "video_id": "wTSzBKu9c7M"
+        },
+        {
+            "duration": 14898,
+            "priority": 2,
+            "video_id": "2_EzQ15Fupo"
+        }
+    ],
+    "20201217": [
+        {
+            "duration": 13248,
+            "priority": 1,
+            "video_id": "lNGkVXZYxCI"
+        },
+        {
+            "duration": 13249,
+            "priority": 2,
+            "video_id": "1sQIsFt5RoA"
+        }
+    ],
+    "20201218": [
+        {
+            "duration": 15930,
+            "priority": 1,
+            "video_id": "jGQDBWempwg"
+        },
+        {
+            "duration": 15930,
+            "priority": 2,
+            "video_id": "w_T88bTF77U"
+        }
+    ],
+    "20201222": [
+        {
+            "duration": 22033,
+            "priority": 1,
+            "video_id": "dqVZYx2kXNw"
+        },
+        {
+            "duration": 22110,
+            "priority": 2,
+            "video_id": "JeN9V0ZpwZ4"
+        }
+    ],
+    "20201223": [
+        {
+            "duration": 16647,
+            "priority": 1,
+            "video_id": "XHYE0Gi-KfI"
+        },
+        {
+            "duration": 16647,
+            "priority": 2,
+            "video_id": "tOkr6Lo_4YU"
+        }
+    ],
+    "20201229": [
+        {
+            "duration": 15364,
+            "priority": 1,
+            "video_id": "EyYQaGrYsi0"
+        },
+        {
+            "duration": 15364,
+            "priority": 2,
+            "video_id": "YHt8pOxeua0"
+        }
+    ],
+    "20201230": [
+        {
+            "duration": 11043,
+            "priority": 1,
+            "video_id": "rHhlok96rXo"
+        },
+        {
+            "duration": 11044,
+            "priority": 2,
+            "video_id": "BtImOO5kP3c"
+        }
+    ],
+    "20201231": [
+        {
+            "duration": 14666,
+            "priority": 1,
+            "video_id": "KBELvo60IfI"
+        },
+        {
+            "duration": 14666,
+            "priority": 2,
+            "video_id": "59MfxB4F0Rs"
+        }
+    ],
+    "20210101": [
+        {
+            "duration": 11089,
+            "priority": 1,
+            "video_id": "ungIeMEO7qg"
+        },
+        {
+            "duration": 11089,
+            "priority": 2,
+            "video_id": "ykAUNAvFR7w"
+        }
+    ],
+    "20210105": [
+        {
+            "duration": 16623,
+            "priority": 1,
+            "video_id": "5XXkncfguyE"
+        },
+        {
+            "duration": 16623,
+            "priority": 2,
+            "video_id": "bdwRbRiFebo"
+        }
+    ],
+    "20210106": [
+        {
+            "duration": 15011,
+            "priority": 1,
+            "video_id": "dXaPGqXwKec"
+        },
+        {
+            "duration": 15011,
+            "priority": 2,
+            "video_id": "KF2FwGbjMY0"
+        }
+    ],
+    "20210107": [
+        {
+            "duration": 14624,
+            "priority": 1,
+            "video_id": "YiM13TgxeUs"
+        },
+        {
+            "duration": 14624,
+            "priority": 2,
+            "video_id": "edK-Jfsik2U"
+        }
+    ],
+    "20210112": [
+        {
+            "duration": 14935,
+            "priority": 1,
+            "video_id": "O2RdXU3awB8"
+        },
+        {
+            "duration": 14935,
+            "priority": 6,
+            "video_id": "1Omi1sNMYcg"
+        }
+    ],
+    "20210113": [
+        {
+            "duration": 16984,
+            "priority": 1,
+            "video_id": "4JcI9vgRKEk"
+        },
+        {
+            "duration": 17021,
+            "priority": 2,
+            "video_id": "Ou6uc1hvFiQ"
+        }
+    ],
+    "20210114": [
+        {
+            "duration": 15560,
+            "priority": 1,
+            "video_id": "uOwLtts-DEk"
+        },
+        {
+            "duration": 15560,
+            "priority": 2,
+            "video_id": "eq_gWVYY06w"
+        }
+    ],
+    "20210115": [
+        {
+            "duration": 15686,
+            "priority": 1,
+            "video_id": "H789HknCHw8"
+        },
+        {
+            "duration": 15678,
+            "priority": 6,
+            "video_id": "_QE0GAU2ex4"
+        }
+    ],
+    "20210119": [
+        {
+            "duration": 15368,
+            "priority": 1,
+            "video_id": "UXSc05W51EU"
+        },
+        {
+            "duration": 15368,
+            "priority": 2,
+            "video_id": "Fwigz8G0xhA"
+        }
+    ],
+    "20210120": [
+        {
+            "duration": 14921,
+            "priority": 1,
+            "video_id": "31OoPCd38Eg"
+        },
+        {
+            "duration": 14921,
+            "priority": 2,
+            "video_id": "-JQv6R6J2Tc"
+        }
+    ],
+    "20210121": [
+        {
+            "duration": 20111,
+            "priority": 1,
+            "video_id": "v4HDzbjMA2Y"
+        },
+        {
+            "duration": 20111,
+            "priority": 2,
+            "video_id": "GMdEpieAusg"
+        }
+    ],
+    "20210126": [
+        {
+            "duration": 15988,
+            "priority": 1,
+            "video_id": "DqXDkCsueFI"
+        },
+        {
+            "duration": 15988,
+            "priority": 2,
+            "video_id": "J_Enn1k7EIk"
+        }
+    ],
+    "20210127": [
+        {
+            "duration": 15663,
+            "priority": 1,
+            "video_id": "sMm7sLPOCjY"
+        },
+        {
+            "duration": 15663,
+            "priority": 2,
+            "video_id": "UtJnaPV4QfI"
+        }
+    ],
+    "20210128": [
+        {
+            "duration": 20436,
+            "priority": 1,
+            "video_id": "EN2PWDt7LyU"
+        },
+        {
+            "duration": 20436,
+            "priority": 2,
+            "video_id": "XoGeqW0rjIk"
+        }
+    ],
+    "20210129": [
+        {
+            "duration": 15005,
+            "priority": 1,
+            "video_id": "VHqr1cpQMKg"
+        },
+        {
+            "duration": 15006,
+            "priority": 2,
+            "video_id": "oe4Phtua7jU"
+        }
+    ],
+    "20210202": [
+        {
+            "duration": 15068,
+            "priority": 1,
+            "video_id": "xNRW47by52g"
+        },
+        {
+            "duration": 15069,
+            "priority": 2,
+            "video_id": "PiIeHAr0e7Y"
+        }
+    ],
+    "20210203": [
+        {
+            "duration": 14825,
+            "priority": 1,
+            "video_id": "8d7YbK2D3Wc"
+        },
+        {
+            "duration": 14825,
+            "priority": 2,
+            "video_id": "jaIiR0F4zYE"
+        }
+    ],
+    "20210204": [
+        {
+            "duration": 17399,
+            "priority": 1,
+            "video_id": "t_F4OUN98aI"
+        },
+        {
+            "duration": 17391,
+            "priority": 6,
+            "video_id": "WevICjtNDWg"
+        }
+    ],
+    "20210205": [
+        {
+            "duration": 12148,
+            "priority": 1,
+            "video_id": "AER1lqFwlTc"
+        },
+        {
+            "duration": 12148,
+            "priority": 2,
+            "video_id": "cAkGQxkwAZw"
+        }
+    ],
+    "20210214": [
+        {
+            "duration": 6578,
+            "priority": 1,
+            "video_id": "RhApzyBdi2k"
+        },
+        {
+            "duration": 6577,
+            "priority": 6,
+            "video_id": "9xvQu1gKcEU"
+        }
+    ],
+    "20210216": [
+        {
+            "duration": 16684,
+            "priority": 1,
+            "video_id": "beGukW-JmLY"
+        },
+        {
+            "duration": 16833,
+            "priority": 6,
+            "video_id": "c3TZb6WNpYk"
+        }
+    ],
+    "20210223": [
+        {
+            "duration": 15313,
+            "priority": 1,
+            "video_id": "aPH4ag68ajo"
+        },
+        {
+            "duration": 15313,
+            "priority": 2,
+            "video_id": "zUtP5TRLtgA"
+        }
+    ],
+    "20210224": [
+        {
+            "duration": 15510,
+            "priority": 1,
+            "video_id": "G2LOLpyDjpo"
+        },
+        {
+            "duration": 15510,
+            "priority": 2,
+            "video_id": "q80gFe58iTg"
+        }
+    ],
+    "20210225": [
+        {
+            "duration": 15012,
+            "priority": 1,
+            "video_id": "EiqHamjyMac"
+        },
+        {
+            "duration": 15012,
+            "priority": 2,
+            "video_id": "cF9rikBvf5U"
+        }
+    ],
+    "20210226": [
+        {
+            "duration": 15216,
+            "priority": 1,
+            "video_id": "44b-I_xU9kY"
+        },
+        {
+            "duration": 15216,
+            "priority": 2,
+            "video_id": "Vh-Z9jAOLxE"
+        }
+    ],
+    "20210227": [
+        {
+            "duration": 10436,
+            "priority": 1,
+            "video_id": "9cCsyHoewIE"
+        },
+        {
+            "duration": 15735,
+            "priority": 2,
+            "video_id": "irgVTj-1db4"
+        }
+    ],
+    "20210302": [
+        {
+            "duration": 8663,
+            "priority": 1,
+            "video_id": "80odkEFYrYs"
+        },
+        {
+            "duration": 15804,
+            "priority": 2,
+            "video_id": "cW494H-Mxrs"
+        }
+    ],
+    "20210303": [
+        {
+            "duration": 16362,
+            "priority": 1,
+            "video_id": "2I8Vt3sWx_c"
+        },
+        {
+            "duration": 16362,
+            "priority": 2,
+            "video_id": "ghUunoLtFhc"
+        }
+    ],
+    "20210305": [
+        {
+            "duration": 15039,
+            "priority": 1,
+            "video_id": "vEvcM3YO7Q4"
+        },
+        {
+            "duration": 15039,
+            "priority": 2,
+            "video_id": "ifz8_I6_I6M"
+        }
+    ],
+    "20210306": [
+        {
+            "duration": 15128,
+            "priority": 1,
+            "video_id": "PNf22_gr8ys"
+        },
+        {
+            "duration": 15128,
+            "priority": 2,
+            "video_id": "ctrX7lDk2g0"
+        }
+    ],
+    "20210309": [
+        {
+            "duration": 14543,
+            "priority": 1,
+            "video_id": "tyJwd6kwTXU"
+        },
+        {
+            "duration": 14543,
+            "priority": 2,
+            "video_id": "9Kp0p39CDUw"
+        }
+    ],
+    "20210310": [
+        {
+            "duration": 15860,
+            "priority": 1,
+            "video_id": "JSqg2TZG5yg"
+        },
+        {
+            "duration": 15860,
+            "priority": 2,
+            "video_id": "aBx5r3x_7do"
+        }
+    ],
+    "20210311": [
+        {
+            "duration": 16926,
+            "priority": 1,
+            "video_id": "it5KUpL4qB0"
+        },
+        {
+            "duration": 16926,
+            "priority": 2,
+            "video_id": "Ti0Flpjhphs"
+        }
+    ],
+    "20210312": [
+        {
+            "duration": 15509,
+            "priority": 1,
+            "video_id": "AQJP9X9TugM"
+        },
+        {
+            "duration": 15509,
+            "priority": 2,
+            "video_id": "8NjAdHCVUNg"
+        }
+    ],
+    "20210313": [
+        {
+            "duration": 15093,
+            "priority": 1,
+            "video_id": "iWlp4ba9dtk"
+        },
+        {
+            "duration": 15093,
+            "priority": 2,
+            "video_id": "Fqczh_ktKqs"
+        }
+    ],
+    "20210316": [
+        {
+            "duration": 19514,
+            "priority": 1,
+            "video_id": "XDdd1lZd6VM"
+        },
+        {
+            "duration": 19514,
+            "priority": 2,
+            "video_id": "uARjtCqB54M"
+        }
+    ],
+    "20210317": [
+        {
+            "duration": 7597,
+            "priority": 1,
+            "video_id": "edqapm404KM"
+        },
+        {
+            "duration": 7598,
+            "priority": 2,
+            "video_id": "vLAX-bEiHzw"
+        }
+    ],
+    "20210318": [
+        {
+            "duration": 15787,
+            "priority": 1,
+            "video_id": "wbXapNZrhD4"
+        },
+        {
+            "duration": 15787,
+            "priority": 2,
+            "video_id": "jzxu5X-ZR9Y"
+        }
+    ],
+    "20210319": [
+        {
+            "duration": 17846,
+            "priority": 1,
+            "video_id": "kmlWA3hcD-Y"
+        },
+        {
+            "duration": 17846,
+            "priority": 2,
+            "video_id": "XVTGoDwAf7Q"
+        }
+    ],
+    "20210320": [
+        {
+            "duration": 15004,
+            "priority": 1,
+            "video_id": "LBaNup8seOo"
+        },
+        {
+            "duration": 15004,
+            "priority": 2,
+            "video_id": "9gtzWfe_96I"
+        }
+    ],
+    "20210330": [
+        {
+            "duration": 15080,
+            "priority": 1,
+            "video_id": "V1kwcCJYdBY"
+        },
+        {
+            "duration": 15081,
+            "priority": 2,
+            "video_id": "RnOI6Ze5dJg"
+        }
+    ],
+    "20210331": [
+        {
+            "duration": 16089,
+            "priority": 1,
+            "video_id": "4-PirI8nq5M"
+        },
+        {
+            "duration": 16091,
+            "priority": 2,
+            "video_id": "OhZcxjZRkTY"
+        }
+    ],
+    "20210401": [
+        {
+            "duration": 15385,
+            "priority": 1,
+            "video_id": "I2KFpwFM5Kk"
+        },
+        {
+            "duration": 15386,
+            "priority": 2,
+            "video_id": "y40hZkE3jKM"
+        }
+    ],
+    "20210402": [
+        {
+            "duration": 14839,
+            "priority": 1,
+            "video_id": "qKMsEfAtfg4"
+        },
+        {
+            "duration": 14839,
+            "priority": 2,
+            "video_id": "YE1nYLLoTW4"
+        }
+    ],
+    "20210403": [
+        {
+            "duration": 14321,
+            "priority": 1,
+            "video_id": "3T_RUzAYScs"
+        },
+        {
+            "duration": 14322,
+            "priority": 2,
+            "video_id": "GNSik2VCXBI"
+        }
+    ],
+    "20210406": [
+        {
+            "duration": 22840,
+            "priority": 1,
+            "video_id": "I92plLYjfK0"
+        },
+        {
+            "duration": 22840,
+            "priority": 2,
+            "video_id": "Whbmcp2LoDE"
+        }
+    ],
+    "20210407": [
+        {
+            "duration": 21801,
+            "priority": 1,
+            "video_id": "uyRoUAu8q5w"
+        },
+        {
+            "duration": 21801,
+            "priority": 2,
+            "video_id": "zKc8zlknpr8"
+        }
+    ],
+    "20210408": [
+        {
+            "duration": 20984,
+            "priority": 1,
+            "video_id": "SsEbuKJ395Q"
+        },
+        {
+            "duration": 20985,
+            "priority": 2,
+            "video_id": "_ZjxllqOiEc"
+        }
+    ],
+    "20210409": [
+        {
+            "duration": 20275,
+            "priority": 1,
+            "video_id": "i1Z8b4xmXNY"
+        },
+        {
+            "duration": 20275,
+            "priority": 2,
+            "video_id": "2qhUHodRCF8"
+        }
+    ],
+    "20210413": [
+        {
+            "duration": 22558,
+            "priority": 1,
+            "video_id": "3mkFnYqJXDY"
+        },
+        {
+            "duration": 22558,
+            "priority": 2,
+            "video_id": "s_xGs7BBVEY"
+        }
+    ],
+    "20210414": [
+        {
+            "duration": 19882,
+            "priority": 1,
+            "video_id": "c9P1Sv9k0So"
+        },
+        {
+            "duration": 19882,
+            "priority": 2,
+            "video_id": "wWtkyBPL1Bc"
+        }
+    ],
+    "20210415": [
+        {
+            "duration": 21619,
+            "priority": 1,
+            "video_id": "awT9z1r4eIE"
+        },
+        {
+            "duration": 21619,
+            "priority": 2,
+            "video_id": "NpIfdahEJXI"
+        }
+    ],
+    "20210416": [
+        {
+            "duration": 21266,
+            "priority": 2,
+            "video_id": "GTlpYAEIXdI"
+        },
+        {
+            "duration": 21266,
+            "priority": 4,
+            "video_id": "3cUkNj5uYwk"
+        }
+    ],
+    "20210612": [
+        {
+            "duration": 17972,
+            "priority": 1,
+            "video_id": "nllJ1PQqBUM"
+        },
+        {
+            "duration": 17972,
+            "priority": 2,
+            "video_id": "njTBL4-YQN8"
+        }
+    ],
+    "20210613": [
+        {
+            "duration": 11683,
+            "priority": 1,
+            "video_id": "iCH3_M4PLlE"
+        },
+        {
+            "duration": 7430,
+            "priority": 1,
+            "video_id": "OTfHprcGpLs"
+        },
+        {
+            "duration": 11683,
+            "priority": 2,
+            "video_id": "mjbz8rXuz5E"
+        },
+        {
+            "duration": 7430,
+            "priority": 2,
+            "video_id": "T00oxfrs700"
+        }
+    ],
+    "20210615": [
+        {
+            "duration": 11211,
+            "priority": 1,
+            "video_id": "EDDJi2edrDU"
+        },
+        {
+            "duration": 11211,
+            "priority": 2,
+            "video_id": "BiClqecJfWA"
+        }
+    ],
+    "20220413": [
+        {
+            "duration": 13198,
+            "priority": 1,
+            "video_id": "JqEaxUhS0Kk"
+        }
+    ],
+    "20220414": [
+        {
+            "duration": 17891,
+            "priority": 1,
+            "video_id": "goOH07gcwBA"
+        }
+    ],
+    "20220415": [
+        {
+            "duration": 17791,
+            "priority": 1,
+            "video_id": "JB5_VU1tNhI"
+        }
+    ],
+    "20220418": [
+        {
+            "duration": 19041,
+            "priority": 1,
+            "video_id": "kqZxprMlDjI"
+        }
+    ],
+    "20220420": [
+        {
+            "duration": 14989,
+            "priority": 1,
+            "video_id": "JPea8R8K1l0"
+        },
+        {
+            "duration": 14989,
+            "priority": 2,
+            "video_id": "WXIaAZYbvhY"
+        }
+    ],
+    "20220421": [
+        {
+            "duration": 15656,
+            "priority": 1,
+            "video_id": "agILv9dGD7E"
+        },
+        {
+            "duration": 15656,
+            "priority": 2,
+            "video_id": "vepctYmj2LM"
+        }
+    ],
+    "20220422": [
+        {
+            "duration": 15183,
+            "priority": 1,
+            "video_id": "0d9G7wnZc9s"
+        },
+        {
+            "duration": 15183,
+            "priority": 2,
+            "video_id": "sfw7NgEysD4"
+        }
+    ],
+    "20220425": [
+        {
+            "duration": 15442,
+            "priority": 1,
+            "video_id": "ss82t6j5Llw"
+        },
+        {
+            "duration": 15442,
+            "priority": 2,
+            "video_id": "HCRCLdroAFk"
+        }
+    ],
+    "20220426": [
+        {
+            "duration": 15808,
+            "priority": 1,
+            "video_id": "havyw5Oe0ag"
+        },
+        {
+            "duration": 15808,
+            "priority": 2,
+            "video_id": "LFP_oEf2YNM"
+        }
+    ],
+    "20220427": [
+        {
+            "duration": 14739,
+            "priority": 1,
+            "video_id": "HuG3xMWprwo"
+        },
+        {
+            "duration": 14739,
+            "priority": 2,
+            "video_id": "EejSBKclRBM"
+        }
+    ],
+    "20220428": [
+        {
+            "duration": 14662,
+            "priority": 1,
+            "video_id": "84u-X3zX2E4"
+        },
+        {
+            "duration": 14662,
+            "priority": 2,
+            "video_id": "nc7LQ1P6Jic"
+        }
+    ],
+    "20220429": [
+        {
+            "duration": 17789,
+            "priority": 1,
+            "video_id": "qjqqF_9lQ_0"
+        },
+        {
+            "duration": 17789,
+            "priority": 2,
+            "video_id": "Y-vXMFlefPs"
+        }
+    ],
+    "20220510": [
+        {
+            "duration": 19212,
+            "priority": 1,
+            "video_id": "bpHrmyUwZ8E"
+        },
+        {
+            "duration": 19212,
+            "priority": 2,
+            "video_id": "Q2HHn2y6pdY"
+        }
+    ],
+    "20220511": [
+        {
+            "duration": 19883,
+            "priority": 1,
+            "video_id": "dqXKUXv64dQ"
+        },
+        {
+            "duration": 19883,
+            "priority": 2,
+            "video_id": "QqDysXVIEeU"
+        }
+    ],
+    "20220512": [
+        {
+            "duration": 14867,
+            "priority": 1,
+            "video_id": "1XSwZLA2vtQ"
+        },
+        {
+            "duration": 14867,
+            "priority": 2,
+            "video_id": "wln3751QnWs"
+        }
+    ],
+    "20220513": [
+        {
+            "duration": 14411,
+            "priority": 1,
+            "video_id": "5h1msc-Shbs"
+        },
+        {
+            "duration": 14411,
+            "priority": 2,
+            "video_id": "ievg3xqsOLI"
+        }
+    ],
+    "20220516": [
+        {
+            "duration": 14396,
+            "priority": 1,
+            "video_id": "cYrpVUvkz-A"
+        },
+        {
+            "duration": 14396,
+            "priority": 2,
+            "video_id": "9eJTkHI3N-U"
+        }
+    ],
+    "20220517": [
+        {
+            "duration": 15822,
+            "priority": 1,
+            "video_id": "pPFKGNKvxDk"
+        },
+        {
+            "duration": 15822,
+            "priority": 2,
+            "video_id": "_sXyulxCDgo"
+        }
+    ],
+    "20220518": [
+        {
+            "duration": 14740,
+            "priority": 1,
+            "video_id": "14vZFj0m5_g"
+        },
+        {
+            "duration": 41295,
+            "priority": 5,
+            "video_id": "-yx8rjpkjPA"
+        }
+    ],
+    "20220519": [
+        {
+            "duration": 11961,
+            "priority": 1,
+            "video_id": "O1MTMssdex8"
+        }
+    ],
+    "20220602": [
+        {
+            "duration": 11913,
+            "priority": 1,
+            "video_id": "HAYgE211dko"
+        },
+        {
+            "duration": 11913,
+            "priority": 2,
+            "video_id": "eqA2r35d3d0"
+        }
+    ],
+    "20220606": [
+        {
+            "duration": 16116,
+            "priority": 1,
+            "video_id": "Cx0dLlB2V20"
+        },
+        {
+            "duration": 16116,
+            "priority": 2,
+            "video_id": "0y5sh2XkEDk"
+        }
+    ],
+    "20220607": [
+        {
+            "duration": 15765,
+            "priority": 1,
+            "video_id": "divZNQoQ0zM"
+        },
+        {
+            "duration": 15765,
+            "priority": 2,
+            "video_id": "bwGinLevZJY"
+        }
+    ],
+    "20220608": [
+        {
+            "duration": 15687,
+            "priority": 1,
+            "video_id": "_RybJWrsuwU"
+        },
+        {
+            "duration": 15687,
+            "priority": 2,
+            "video_id": "s3j3Xa8YiQ8"
+        }
+    ],
+    "20220609": [
+        {
+            "duration": 16647,
+            "priority": 1,
+            "video_id": "I78NGxuAF7Q"
+        },
+        {
+            "duration": 16647,
+            "priority": 2,
+            "video_id": "cBG1lLhghmg"
+        }
+    ],
+    "20220610": [
+        {
+            "duration": 14141,
+            "priority": 1,
+            "video_id": "W5B_mrlXMP0"
+        },
+        {
+            "duration": 14141,
+            "priority": 2,
+            "video_id": "pWSN-A1sDGo"
+        }
+    ],
+    "20220613": [
+        {
+            "duration": 16697,
+            "priority": 1,
+            "video_id": "ZEqZRJmgC0o"
+        },
+        {
+            "duration": 16697,
+            "priority": 2,
+            "video_id": "D8yhs47mt6U"
+        }
+    ],
+    "20220614": [
+        {
+            "duration": 14653,
+            "priority": 1,
+            "video_id": "tJWOUmwVrWs"
+        },
+        {
+            "duration": 14653,
+            "priority": 2,
+            "video_id": "Byq8cjgMSDw"
+        }
+    ],
+    "20220615": [
+        {
+            "duration": 17030,
+            "priority": 1,
+            "video_id": "lrkQ7-_6azg"
+        },
+        {
+            "duration": 17030,
+            "priority": 2,
+            "video_id": "Hiuat9BIhbA"
+        }
+    ],
+    "20220620": [
+        {
+            "duration": 14737,
+            "priority": 1,
+            "video_id": "J8utvAjlBwk"
+        },
+        {
+            "duration": 14737,
+            "priority": 2,
+            "video_id": "ZUdA01pyhqc"
+        }
+    ],
+    "20220621": [
+        {
+            "duration": 18261,
+            "priority": 1,
+            "video_id": "C0wZwKHN_W0"
+        },
+        {
+            "duration": 18261,
+            "priority": 2,
+            "video_id": "z28pnj589EM"
+        }
+    ],
+    "20220622": [
+        {
+            "duration": 15907,
+            "priority": 1,
+            "video_id": "3McnLMhQYUg"
+        },
+        {
+            "duration": 15907,
+            "priority": 2,
+            "video_id": "iEfXqj2N9eU"
+        }
+    ],
+    "20220623": [
+        {
+            "duration": 18645,
+            "priority": 1,
+            "video_id": "p10yaS7hv3w"
+        },
+        {
+            "duration": 18645,
+            "priority": 2,
+            "video_id": "PhOSAWspfMo"
+        }
+    ],
+    "20220731": [
+        {
+            "duration": 15636,
+            "priority": 1,
+            "video_id": "7Pw02aspCHA"
+        },
+        {
+            "duration": 15637,
+            "priority": 2,
+            "video_id": "7QG3EXSMIjA"
+        }
+    ],
+    "20220801": [
+        {
+            "duration": 17133,
+            "priority": 1,
+            "video_id": "hQbEZ1ScVoE"
+        },
+        {
+            "duration": 17133,
+            "priority": 2,
+            "video_id": "Ro_Y7V1_7jg"
+        }
+    ],
+    "20220802": [
+        {
+            "duration": 11415,
+            "priority": 1,
+            "video_id": "M_uWsggMQPA"
+        },
+        {
+            "duration": 11415,
+            "priority": 2,
+            "video_id": "CGZq875-Zu8"
+        }
+    ],
+    "20220803": [
+        {
+            "duration": 14643,
+            "priority": 1,
+            "video_id": "MO0djW402CI"
+        },
+        {
+            "duration": 14643,
+            "priority": 2,
+            "video_id": "DFmeGZEFplk"
+        }
+    ],
+    "20220804": [
+        {
+            "duration": 14077,
+            "priority": 1,
+            "video_id": "CmPuexfMS8g"
+        },
+        {
+            "duration": 14077,
+            "priority": 2,
+            "video_id": "Yv85RhICjmE"
+        }
+    ],
+    "20220805": [
+        {
+            "duration": 14842,
+            "priority": 1,
+            "video_id": "YE9sHT9lLLE"
+        },
+        {
+            "duration": 14842,
+            "priority": 2,
+            "video_id": "uy8d-xwgyXw"
+        }
+    ],
+    "20220809": [
+        {
+            "duration": 15473,
+            "priority": 1,
+            "video_id": "BUTxI-iOBWQ"
+        },
+        {
+            "duration": 15473,
+            "priority": 2,
+            "video_id": "R578-VtLU3E"
+        }
+    ],
+    "20220810": [
+        {
+            "duration": 15852,
+            "priority": 1,
+            "video_id": "jYREyVfWAAA"
+        },
+        {
+            "duration": 15852,
+            "priority": 2,
+            "video_id": "jpkGVstOszM"
+        }
+    ],
+    "20220811": [
+        {
+            "duration": 14412,
+            "priority": 1,
+            "video_id": "Oz1eCpD_scQ"
+        },
+        {
+            "duration": 14412,
+            "priority": 2,
+            "video_id": "LcY2xWtGOX4"
+        }
+    ],
+    "20221109": [
+        {
+            "duration": 1962,
+            "priority": 1,
+            "video_id": "yOES-anySNA"
+        },
+        {
+            "duration": 15066,
+            "priority": 2,
+            "video_id": "ORWQndr-pr8"
+        }
+    ],
+    "20221110": [
+        {
+            "duration": 1310,
+            "priority": 1,
+            "video_id": "tvpv1aJk35A"
+        },
+        {
+            "duration": 22214,
+            "priority": 2,
+            "video_id": "j2NTovPBLfc"
+        }
+    ],
+    "20221111": [
+        {
+            "duration": 30295,
+            "priority": 1,
+            "video_id": "_NY1G_lVUWE"
+        },
+        {
+            "duration": 30295,
+            "priority": 2,
+            "video_id": "Qfv2MsHE4q4"
+        }
+    ],
+    "20221112": [
+        {
+            "duration": 27326,
+            "priority": 1,
+            "video_id": "4ggmsHNrsTk"
+        },
+        {
+            "duration": 27326,
+            "priority": 2,
+            "video_id": "6a7scECRWMo"
+        }
+    ],
+    "20221113": [
+        {
+            "duration": 26503,
+            "priority": 1,
+            "video_id": "zDLmh55B3WY"
+        },
+        {
+            "duration": 26503,
+            "priority": 2,
+            "video_id": "0Jy6oLq8zgY"
+        }
+    ],
+    "20221114": [
+        {
+            "duration": 21340,
+            "priority": 1,
+            "video_id": "6fsu4gGvbS8"
+        },
+        {
+            "duration": 21341,
+            "priority": 2,
+            "video_id": "0_ebP8ilkwI"
+        }
+    ],
+    "20221115": [
+        {
+            "duration": 131,
+            "priority": 1,
+            "video_id": "Fz5la4T-ssM"
+        },
+        {
+            "duration": 30845,
+            "priority": 2,
+            "video_id": "PpJHlioQhOc"
+        }
+    ],
+    "20221117": [
+        {
+            "duration": 11875,
+            "priority": 1,
+            "video_id": "ObG9I91ooQs"
+        },
+        {
+            "duration": 28189,
+            "priority": 2,
+            "video_id": "aHoThQ4_5u4"
+        }
+    ],
+    "20221118": [
+        {
+            "duration": 27146,
+            "priority": 1,
+            "video_id": "WOyJ_1Bzn9w"
+        },
+        {
+            "duration": 27146,
+            "priority": 2,
+            "video_id": "2IXspHxeLVI"
+        }
+    ],
+    "20221119": [
+        {
+            "duration": 25670,
+            "priority": 1,
+            "video_id": "zHqV1Qa0D5g"
+        },
+        {
+            "duration": 25670,
+            "priority": 2,
+            "video_id": "cBrSOUXpGWo"
+        }
+    ],
+    "20221120": [
+        {
+            "duration": 12890,
+            "priority": 1,
+            "video_id": "OfHa1FvKgYQ"
+        },
+        {
+            "duration": 31148,
+            "priority": 2,
+            "video_id": "x0HHb1QiU0g"
+        }
+    ],
+    "20221208": [
+        {
+            "duration": 10030,
+            "priority": 1,
+            "video_id": "w6pzH0ts_s4"
+        },
+        {
+            "duration": 14492,
+            "priority": 1,
+            "video_id": "fRv3Qab5Sb8"
+        },
+        {
+            "duration": 10031,
+            "priority": 2,
+            "video_id": "YEMiX7HNt9Y"
+        },
+        {
+            "duration": 14582,
+            "priority": 2,
+            "video_id": "nVPFM3FAAEk"
+        }
+    ],
+    "20221215": [
+        {
+            "duration": 16975,
+            "priority": 1,
+            "video_id": "GtpurxkvvEA"
+        },
+        {
+            "duration": 16975,
+            "priority": 2,
+            "video_id": "72_P--J1_hE"
+        }
+    ],
+    "20221216": [
+        {
+            "duration": 16956,
+            "priority": 1,
+            "video_id": "enqN88qd5MI"
+        },
+        {
+            "duration": 16957,
+            "priority": 2,
+            "video_id": "EafPeDWzNc4"
+        }
+    ],
+    "20221217": [
+        {
+            "duration": 18860,
+            "priority": 1,
+            "video_id": "MptxhRLzTLo"
+        },
+        {
+            "duration": 18861,
+            "priority": 2,
+            "video_id": "Tgv5sloIXXQ"
+        }
+    ],
+    "20221218": [
+        {
+            "duration": 20235,
+            "priority": 1,
+            "video_id": "3mZ95b1ahiU"
+        },
+        {
+            "duration": 20235,
+            "priority": 2,
+            "video_id": "E99nAdYRgs8"
+        }
+    ],
+    "20221219": [
+        {
+            "duration": 17834,
+            "priority": 1,
+            "video_id": "ydH_flfVJyo"
+        },
+        {
+            "duration": 17834,
+            "priority": 2,
+            "video_id": "yM8u7QfJAkA"
+        }
+    ],
+    "20221222": [
+        {
+            "duration": 22398,
+            "priority": 1,
+            "video_id": "9yDyU365i28"
+        },
+        {
+            "duration": 22398,
+            "priority": 2,
+            "video_id": "f4o8MSHkLl0"
+        }
+    ],
+    "20221223": [
+        {
+            "duration": 18584,
+            "priority": 1,
+            "video_id": "iTKtmE6xpGU"
+        },
+        {
+            "duration": 18586,
+            "priority": 2,
+            "video_id": "brcw5GzFnmM"
+        }
+    ],
+    "20221224": [
+        {
+            "duration": 14985,
+            "priority": 1,
+            "video_id": "_nnxgHD3MNc"
+        },
+        {
+            "duration": 14985,
+            "priority": 2,
+            "video_id": "L8GJHOplC0c"
+        }
+    ],
+    "20221227": [
+        {
+            "duration": 21982,
+            "priority": 1,
+            "video_id": "lcMi0oUfghs"
+        },
+        {
+            "duration": 21982,
+            "priority": 2,
+            "video_id": "jrsbQZlsrlY"
+        }
+    ],
+    "20221228": [
+        {
+            "duration": 16966,
+            "priority": 1,
+            "video_id": "nNGo8tPyyvc"
+        },
+        {
+            "duration": 16966,
+            "priority": 2,
+            "video_id": "QrevqxhBvPU"
+        }
+    ],
+    "20221229": [
+        {
+            "duration": 18338,
+            "priority": 1,
+            "video_id": "13vtaiOs17Y"
+        },
+        {
+            "duration": 18338,
+            "priority": 2,
+            "video_id": "1FgmBG9HjZU"
+        }
+    ],
+    "20221231": [
+        {
+            "duration": 23003,
+            "priority": 1,
+            "video_id": "Aj_8SO2uDbc"
+        },
+        {
+            "duration": 23002,
+            "priority": 2,
+            "video_id": "cKgUPgCMxyU"
+        }
+    ],
+    "20230102": [
+        {
+            "duration": 15480,
+            "priority": 1,
+            "video_id": "rya12Iz8FNA"
+        },
+        {
+            "duration": 15480,
+            "priority": 2,
+            "video_id": "RQfnGHwehD4"
+        }
+    ],
+    "20230103": [
+        {
+            "duration": 23208,
+            "priority": 1,
+            "video_id": "78ysbNuEgwY"
+        },
+        {
+            "duration": 23210,
+            "priority": 2,
+            "video_id": "6KxphhKLyNk"
+        }
+    ],
+    "20230104": [
+        {
+            "duration": 17096,
+            "priority": 1,
+            "video_id": "0RKAPQCCSv8"
+        },
+        {
+            "duration": 17097,
+            "priority": 2,
+            "video_id": "vp1vguEJtCM"
+        }
+    ],
+    "20230110": [
+        {
+            "duration": 18854,
+            "priority": 1,
+            "video_id": "8qzNOJLdnMk"
+        },
+        {
+            "duration": 18854,
+            "priority": 2,
+            "video_id": "hHc6-dRSiOM"
+        }
+    ],
+    "20230111": [
+        {
+            "duration": 18613,
+            "priority": 1,
+            "video_id": "qm2FDnLIepk"
+        },
+        {
+            "duration": 18613,
+            "priority": 2,
+            "video_id": "Mmk6jgJYGgY"
+        }
+    ],
+    "20230112": [
+        {
+            "duration": 17525,
+            "priority": 1,
+            "video_id": "GNvdupwAXDU"
+        },
+        {
+            "duration": 17527,
+            "priority": 2,
+            "video_id": "NlxwI5Mvp64"
+        }
+    ],
+    "20230113": [
+        {
+            "duration": 18452,
+            "priority": 1,
+            "video_id": "-Xg1bSzeSCc"
+        },
+        {
+            "duration": 18452,
+            "priority": 2,
+            "video_id": "rseHHXWSP4M"
+        }
+    ],
+    "20230117": [
+        {
+            "duration": 17769,
+            "priority": 1,
+            "video_id": "ghVk30njxkc"
+        },
+        {
+            "duration": 17770,
+            "priority": 2,
+            "video_id": "cSIzVY3BtNQ"
+        }
+    ],
+    "20230118": [
+        {
+            "duration": 23040,
+            "priority": 1,
+            "video_id": "TCqZ-GYbpHg"
+        },
+        {
+            "duration": 23042,
+            "priority": 2,
+            "video_id": "pGDTBSFZBhg"
+        }
+    ],
+    "20230119": [
+        {
+            "duration": 18967,
+            "priority": 1,
+            "video_id": "Rnrtseb74ng"
+        },
+        {
+            "duration": 18967,
+            "priority": 2,
+            "video_id": "kasllF1HIg0"
+        }
+    ],
+    "20230120": [
+        {
+            "duration": 23074,
+            "priority": 1,
+            "video_id": "MPL0NomADeM"
+        },
+        {
+            "duration": 23076,
+            "priority": 2,
+            "video_id": "BtgO8bzR5_k"
+        }
+    ],
+    "20230130": [
+        {
+            "duration": 19418,
+            "priority": 1,
+            "video_id": "dABEygme8Yk"
+        },
+        {
+            "duration": 19418,
+            "priority": 2,
+            "video_id": "DJayLant0SU"
+        }
+    ],
+    "20230131": [
+        {
+            "duration": 15122,
+            "priority": 1,
+            "video_id": "3VGfA3clAGg"
+        },
+        {
+            "duration": 15122,
+            "priority": 2,
+            "video_id": "4UxJKwK-PMY"
+        }
+    ],
+    "20230201": [
+        {
+            "duration": 15508,
+            "priority": 1,
+            "video_id": "G7uy0rxywVQ"
+        },
+        {
+            "duration": 15508,
+            "priority": 2,
+            "video_id": "fCXQwJr4Yxw"
+        }
+    ],
+    "20230202": [
+        {
+            "duration": 18429,
+            "priority": 1,
+            "video_id": "PB5BFqNO3jM"
+        },
+        {
+            "duration": 18429,
+            "priority": 2,
+            "video_id": "uH4evNx4CNg"
+        }
+    ],
+    "20230203": [
+        {
+            "duration": 18479,
+            "priority": 1,
+            "video_id": "xt-50PXSGPI"
+        },
+        {
+            "duration": 18480,
+            "priority": 2,
+            "video_id": "PPTEyJqqSMw"
+        }
+    ],
+    "20230207": [
+        {
+            "duration": 19417,
+            "priority": 1,
+            "video_id": "wloHwIRmcIk"
+        },
+        {
+            "duration": 19417,
+            "priority": 2,
+            "video_id": "7VpDgA6Q51w"
+        }
+    ],
+    "20230208": [
+        {
+            "duration": 18946,
+            "priority": 1,
+            "video_id": "eKbHzr-bUdY"
+        },
+        {
+            "duration": 18946,
+            "priority": 2,
+            "video_id": "mXyZXkeh-Dc"
+        }
+    ],
+    "20230209": [
+        {
+            "duration": 19463,
+            "priority": 1,
+            "video_id": "dRA1kIPbY9Y"
+        },
+        {
+            "duration": 19463,
+            "priority": 2,
+            "video_id": "3uwpPWQG60g"
+        }
+    ],
+    "20230210": [
+        {
+            "duration": 23055,
+            "priority": 1,
+            "video_id": "2BrQpwi-2XM"
+        },
+        {
+            "duration": 23055,
+            "priority": 2,
+            "video_id": "O7WoADm0qWE"
+        }
+    ],
+    "20230214": [
+        {
+            "duration": 19565,
+            "priority": 1,
+            "video_id": "k5QwQrv_mi8"
+        },
+        {
+            "duration": 19565,
+            "priority": 2,
+            "video_id": "qlRZuvlbg8M"
+        }
+    ],
+    "20230215": [
+        {
+            "duration": 22536,
+            "priority": 1,
+            "video_id": "ONHSnJxeWUI"
+        },
+        {
+            "duration": 22536,
+            "priority": 2,
+            "video_id": "bQQ2suQIKqQ"
+        }
+    ],
+    "20230216": [
+        {
+            "duration": 19075,
+            "priority": 1,
+            "video_id": "u8Ey6vg3nCw"
+        },
+        {
+            "duration": 19076,
+            "priority": 2,
+            "video_id": "pJPO73zry5s"
+        }
+    ],
+    "20230217": [
+        {
+            "duration": 21786,
+            "priority": 1,
+            "video_id": "LAUg_VqAirg"
+        },
+        {
+            "duration": 21787,
+            "priority": 2,
+            "video_id": "-Jj3bm_4D_0"
+        }
+    ],
+    "20230221": [
+        {
+            "duration": 20113,
+            "priority": 1,
+            "video_id": "gppGZlR5iv4"
+        },
+        {
+            "duration": 20113,
+            "priority": 2,
+            "video_id": "XhMU3rSzVyk"
+        }
+    ],
+    "20230222": [
+        {
+            "duration": 21668,
+            "priority": 1,
+            "video_id": "zSFT9Udxz2g"
+        },
+        {
+            "duration": 21669,
+            "priority": 2,
+            "video_id": "ui-5BQsuD48"
+        }
+    ],
+    "20230223": [
+        {
+            "duration": 25654,
+            "priority": 1,
+            "video_id": "GU4kXXksahI"
+        },
+        {
+            "duration": 25655,
+            "priority": 2,
+            "video_id": "WNpippkAO-4"
+        }
+    ],
+    "20230224": [
+        {
+            "duration": 21752,
+            "priority": 1,
+            "video_id": "voFOaLDBk3k"
+        },
+        {
+            "duration": 21754,
+            "priority": 2,
+            "video_id": "DEtm8Vra61s"
+        }
+    ],
+    "20230228": [
+        {
+            "duration": 17945,
+            "priority": 1,
+            "video_id": "7Yef-BSk48U"
+        },
+        {
+            "duration": 17945,
+            "priority": 2,
+            "video_id": "hV6ohf2wcpQ"
+        }
+    ],
+    "20230301": [
+        {
+            "duration": 17461,
+            "priority": 1,
+            "video_id": "912FCYvA_6Y"
+        },
+        {
+            "duration": 17461,
+            "priority": 2,
+            "video_id": "2_N4X_W55T4"
+        }
+    ],
+    "20230302": [
+        {
+            "duration": 25331,
+            "priority": 1,
+            "video_id": "gKMYPrJYFLs"
+        },
+        {
+            "duration": 25332,
+            "priority": 2,
+            "video_id": "veaUd-W7WCw"
+        }
+    ],
+    "20230303": [
+        {
+            "duration": 19786,
+            "priority": 1,
+            "video_id": "eeKxsmkHBc0"
+        },
+        {
+            "duration": 19787,
+            "priority": 2,
+            "video_id": "EwSmCc-XJE4"
+        }
+    ],
+    "20230307": [
+        {
+            "duration": 17732,
+            "priority": 1,
+            "video_id": "BkqefO8TfP8"
+        },
+        {
+            "duration": 17732,
+            "priority": 2,
+            "video_id": "7qu4KfjWfHI"
+        }
+    ],
+    "20230309": [
+        {
+            "duration": 20888,
+            "priority": 1,
+            "video_id": "vBnHpELZl7M"
+        },
+        {
+            "duration": 20889,
+            "priority": 2,
+            "video_id": "K_9Rqe6KXBo"
+        }
+    ],
+    "20230310": [
+        {
+            "duration": 18361,
+            "priority": 1,
+            "video_id": "BcfYz9LvVN4"
+        },
+        {
+            "duration": 18361,
+            "priority": 2,
+            "video_id": "YrYtArPnlNk"
+        }
+    ],
+    "20230311": [
+        {
+            "duration": 22291,
+            "priority": 1,
+            "video_id": "I6syxSPiQMI"
+        },
+        {
+            "duration": 22292,
+            "priority": 2,
+            "video_id": "FveR_4XxWME"
+        }
+    ],
+    "20230314": [
+        {
+            "duration": 3442,
+            "priority": 1,
+            "video_id": "PH4GDFGVdfs"
+        },
+        {
+            "duration": 21835,
+            "priority": 2,
+            "video_id": "xuILIfVc2aQ"
+        }
+    ],
+    "20230315": [
+        {
+            "duration": 22091,
+            "priority": 1,
+            "video_id": "_vdKY6qb_04"
+        },
+        {
+            "duration": 22091,
+            "priority": 2,
+            "video_id": "ayCEg3muI30"
+        }
+    ],
+    "20230316": [
+        {
+            "duration": 24075,
+            "priority": 1,
+            "video_id": "N7Wa8t6gVHc"
+        },
+        {
+            "duration": 24075,
+            "priority": 2,
+            "video_id": "Wrpecq6iKs8"
+        }
+    ],
+    "20230317": [
+        {
+            "duration": 19846,
+            "priority": 1,
+            "video_id": "Nyobp0ZxiuU"
+        },
+        {
+            "duration": 19846,
+            "priority": 2,
+            "video_id": "Zk6UXK1tTUo"
+        }
+    ],
+    "20230318": [
+        {
+            "duration": 23082,
+            "priority": 1,
+            "video_id": "4xc9gGgPDbc"
+        },
+        {
+            "duration": 23083,
+            "priority": 2,
+            "video_id": "X6aEpj1gsTQ"
+        }
+    ],
+    "20230321": [
+        {
+            "duration": 19326,
+            "priority": 1,
+            "video_id": "U3BSb7ZWIrw"
+        },
+        {
+            "duration": 19327,
+            "priority": 2,
+            "video_id": "zt5AFYZWzSI"
+        }
+    ],
+    "20230322": [
+        {
+            "duration": 20593,
+            "priority": 1,
+            "video_id": "LW2MhQW0oss"
+        },
+        {
+            "duration": 20593,
+            "priority": 2,
+            "video_id": "lgPc4ZjKRxo"
+        }
+    ],
+    "20230323": [
+        {
+            "duration": 20499,
+            "priority": 1,
+            "video_id": "GTSzfMs3Pmk"
+        },
+        {
+            "duration": 20499,
+            "priority": 2,
+            "video_id": "TKGIY0yCdMA"
+        }
+    ],
+    "20230324": [
+        {
+            "duration": 21390,
+            "priority": 1,
+            "video_id": "qsc8Z6iLyt4"
+        },
+        {
+            "duration": 21390,
+            "priority": 2,
+            "video_id": "XwHcU6hX_8Y"
+        }
+    ],
+    "20230325": [
+        {
+            "duration": 5116,
+            "priority": 1,
+            "video_id": "WnYRpm1g7N8"
+        },
+        {
+            "duration": 25916,
+            "priority": 2,
+            "video_id": "1CEPWhIJxjI"
+        }
+    ],
+    "20230328": [
+        {
+            "duration": 19635,
+            "priority": 1,
+            "video_id": "1XpVtwpMLt4"
+        },
+        {
+            "duration": 19635,
+            "priority": 2,
+            "video_id": "bnCOL8ovqp8"
+        }
+    ],
+    "20230329": [
+        {
+            "duration": 19003,
+            "priority": 1,
+            "video_id": "ifJ9F8if3U0"
+        },
+        {
+            "duration": 19003,
+            "priority": 2,
+            "video_id": "sRUciuEUyEw"
+        }
+    ],
+    "20230330": [
+        {
+            "duration": 19257,
+            "priority": 1,
+            "video_id": "podUhsmqblU"
+        },
+        {
+            "duration": 19257,
+            "priority": 2,
+            "video_id": "oV49zY9DUCQ"
+        }
+    ],
+    "20230331": [
+        {
+            "duration": 21527,
+            "priority": 1,
+            "video_id": "i4aXVjjh7eA"
+        },
+        {
+            "duration": 21527,
+            "priority": 2,
+            "video_id": "fFRfcuSP8tA"
+        }
+    ],
+    "20230404": [
+        {
+            "duration": 19629,
+            "priority": 1,
+            "video_id": "Y4NhGmpL5t4"
+        },
+        {
+            "duration": 19629,
+            "priority": 2,
+            "video_id": "HogC1Eea2As"
+        }
+    ],
+    "20230405": [
+        {
+            "duration": 19511,
+            "priority": 1,
+            "video_id": "N078fGhdUA0"
+        },
+        {
+            "duration": 19511,
+            "priority": 2,
+            "video_id": "2n3k1-Evt0c"
+        }
+    ],
+    "20230406": [
+        {
+            "duration": 14669,
+            "priority": 1,
+            "video_id": "7kL-tRgkTrw"
+        },
+        {
+            "duration": 14669,
+            "priority": 2,
+            "video_id": "h5xnA2Xkw_c"
+        }
+    ],
+    "20230407": [
+        {
+            "duration": 21329,
+            "priority": 1,
+            "video_id": "Wfvq2QRaETM"
+        },
+        {
+            "duration": 21329,
+            "priority": 2,
+            "video_id": "hJhHNdI0pJ0"
+        }
+    ],
+    "20230408": [
+        {
+            "duration": 19234,
+            "priority": 1,
+            "video_id": "KMd_98rJiYI"
+        },
+        {
+            "duration": 19234,
+            "priority": 2,
+            "video_id": "IyccV7DfOhI"
+        }
+    ],
+    "20230411": [
+        {
+            "duration": 19563,
+            "priority": 1,
+            "video_id": "nvLcsOUi4WU"
+        },
+        {
+            "duration": 19563,
+            "priority": 2,
+            "video_id": "VawpUd3tCCI"
+        }
+    ],
+    "20230412": [
+        {
+            "duration": 36745,
+            "priority": 1,
+            "video_id": "y-mcCp6EnL4"
+        },
+        {
+            "duration": 36745,
+            "priority": 2,
+            "video_id": "bjAs06-79uE"
+        }
+    ],
+    "20230425": [
+        {
+            "duration": 20174,
+            "priority": 1,
+            "video_id": "I5eHUqUTl-w"
+        },
+        {
+            "duration": 20175,
+            "priority": 2,
+            "video_id": "--jjjqtwfWQ"
+        }
+    ],
+    "20230426": [
+        {
+            "duration": 23288,
+            "priority": 1,
+            "video_id": "eQqXHsO8f2k"
+        },
+        {
+            "duration": 23288,
+            "priority": 2,
+            "video_id": "i42NlS7-YmQ"
+        }
+    ],
+    "20230427": [
+        {
+            "duration": 34984,
+            "priority": 1,
+            "video_id": "stYygliJLgY"
+        },
+        {
+            "duration": 34984,
+            "priority": 2,
+            "video_id": "TlE8NumNYFY"
+        }
+    ],
+    "20230428": [
+        {
+            "duration": 21541,
+            "priority": 1,
+            "video_id": "KmQaoojX-gc"
+        },
+        {
+            "duration": 21541,
+            "priority": 2,
+            "video_id": "cxo9L5O1dGo"
+        }
+    ],
+    "20230429": [
+        {
+            "duration": 2310,
+            "priority": 1,
+            "video_id": "cZeYMYzqOmw"
+        },
+        {
+            "duration": 19670,
+            "priority": 2,
+            "video_id": "KYi3KhxK7wg"
+        }
+    ],
+    "20230502": [
+        {
+            "duration": 21363,
+            "priority": 1,
+            "video_id": "hr-cuY3Uq1I"
+        },
+        {
+            "duration": 21364,
+            "priority": 2,
+            "video_id": "71BGOG8ZERo"
+        }
+    ],
+    "20230503": [
+        {
+            "duration": 25548,
+            "priority": 1,
+            "video_id": "e6IYsYLGFj0"
+        },
+        {
+            "duration": 25549,
+            "priority": 2,
+            "video_id": "vu9Fqw0CiNY"
+        }
+    ],
+    "20230504": [
+        {
+            "duration": 20658,
+            "priority": 1,
+            "video_id": "M5K-K4Vav4w"
+        },
+        {
+            "duration": 20658,
+            "priority": 2,
+            "video_id": "-hvJ7NGEmew"
+        }
+    ],
+    "20230505": [
+        {
+            "duration": 26763,
+            "priority": 1,
+            "video_id": "0J4L5RGA5LI"
+        },
+        {
+            "duration": 26763,
+            "priority": 2,
+            "video_id": "p6g2MmSCV44"
+        }
+    ],
+    "20230509": [
+        {
+            "duration": 22612,
+            "priority": 1,
+            "video_id": "jscA2Kc9SOA"
+        },
+        {
+            "duration": 22612,
+            "priority": 2,
+            "video_id": "ODaa0QO6Y_4"
+        }
+    ],
+    "20230510": [
+        {
+            "duration": 19999,
+            "priority": 1,
+            "video_id": "wqu0qJGgNyc"
+        },
+        {
+            "duration": 19999,
+            "priority": 2,
+            "video_id": "qXkYFi5_sOw"
+        }
+    ],
+    "20230511": [
+        {
+            "duration": 21926,
+            "priority": 1,
+            "video_id": "lCLZm2TdvyA"
+        },
+        {
+            "duration": 21926,
+            "priority": 2,
+            "video_id": "epu0hjKAzbs"
+        }
+    ],
+    "20230512": [
+        {
+            "duration": 23342,
+            "priority": 1,
+            "video_id": "4ACwR_Z2btY"
+        },
+        {
+            "duration": 23342,
+            "priority": 2,
+            "video_id": "EN0SC4rzuRQ"
+        }
+    ],
+    "20230514": [
+        {
+            "duration": 29837,
+            "priority": 1,
+            "video_id": "BUycV1T8sKE"
+        },
+        {
+            "duration": 29837,
+            "priority": 2,
+            "video_id": "PuFIWOHipkA"
+        }
+    ],
+    "20230515": [
+        {
+            "duration": 27608,
+            "priority": 1,
+            "video_id": "XIt0l5PxKBo"
+        },
+        {
+            "duration": 27608,
+            "priority": 2,
+            "video_id": "JAVG2ZSHvGM"
+        }
+    ],
+    "20230516": [
+        {
+            "duration": 20943,
+            "priority": 1,
+            "video_id": "m5APiq0Krks"
+        },
+        {
+            "duration": 20944,
+            "priority": 2,
+            "video_id": "ra3Wek6z8ko"
+        }
+    ],
+    "20230517": [
+        {
+            "duration": 17165,
+            "priority": 1,
+            "video_id": "UJl8TrNsXIE"
+        },
+        {
+            "duration": 17165,
+            "priority": 2,
+            "video_id": "2wHCKkXTyQ8"
+        }
+    ],
+    "20230530": [
+        {
+            "duration": 15575,
+            "priority": 1,
+            "video_id": "i80tSss6Tu8"
+        },
+        {
+            "duration": 15576,
+            "priority": 2,
+            "video_id": "13-Gl58cub0"
+        }
+    ],
+    "20230531": [
+        {
+            "duration": 20917,
+            "priority": 1,
+            "video_id": "WSd5DKtazbA"
+        },
+        {
+            "duration": 20917,
+            "priority": 2,
+            "video_id": "5xOvELuyoLU"
+        }
+    ],
+    "20230601": [
+        {
+            "duration": 19296,
+            "priority": 1,
+            "video_id": "iClDlYhZhKo"
+        },
+        {
+            "duration": 19297,
+            "priority": 2,
+            "video_id": "eDMHFeP2rDE"
+        }
+    ],
+    "20230602": [
+        {
+            "duration": 17605,
+            "priority": 1,
+            "video_id": "FS7tW0YIU7s"
+        },
+        {
+            "duration": 17605,
+            "priority": 2,
+            "video_id": "Vu0pXRztaOg"
+        }
+    ],
+    "20230606": [
+        {
+            "duration": 19346,
+            "priority": 1,
+            "video_id": "Q415m7BfxTo"
+        },
+        {
+            "duration": 19346,
+            "priority": 2,
+            "video_id": "ynt-YLjjXy8"
+        }
+    ],
+    "20230607": [
+        {
+            "duration": 18146,
+            "priority": 1,
+            "video_id": "IgEiPKH0br4"
+        },
+        {
+            "duration": 18146,
+            "priority": 2,
+            "video_id": "elB2WOmIr1g"
+        }
+    ],
+    "20230608": [
+        {
+            "duration": 18320,
+            "priority": 1,
+            "video_id": "ViFsHZenVkI"
+        },
+        {
+            "duration": 18631,
+            "priority": 2,
+            "video_id": "mWpDw9uDB5c"
+        }
+    ],
+    "20230609": [
+        {
+            "duration": 23462,
+            "priority": 1,
+            "video_id": "RzbdwMwZDPM"
+        },
+        {
+            "duration": 23463,
+            "priority": 2,
+            "video_id": "VsmvHkuvc6M"
+        }
+    ],
+    "20230611": [
+        {
+            "duration": 19448,
+            "priority": 1,
+            "video_id": "jjyuvcvbYAk"
+        },
+        {
+            "duration": 19449,
+            "priority": 2,
+            "video_id": "E9KTFyOOqLA"
+        }
+    ],
+    "20230614": [
+        {
+            "duration": 20040,
+            "priority": 1,
+            "video_id": "LYCDIKHN_wI"
+        },
+        {
+            "duration": 20040,
+            "priority": 2,
+            "video_id": "t18MTzei2sI"
+        }
+    ],
+    "20230615": [
+        {
+            "duration": 13446,
+            "priority": 1,
+            "video_id": "vPx2Yp64bJs"
+        },
+        {
+            "duration": 15178,
+            "priority": 1,
+            "video_id": "K-txWJaDRGA"
+        },
+        {
+            "duration": 13446,
+            "priority": 2,
+            "video_id": "7cHZaLwDGLg"
+        },
+        {
+            "duration": 15178,
+            "priority": 2,
+            "video_id": "Oea7SpwdUZE"
+        }
+    ],
+    "20230616": [
+        {
+            "duration": 16759,
+            "priority": 1,
+            "video_id": "GZWsobm48-A"
+        },
+        {
+            "duration": 16759,
+            "priority": 2,
+            "video_id": "aaQLwUxTrsI"
+        }
+    ],
+    "20230620": [
+        {
+            "duration": 20132,
+            "priority": 1,
+            "video_id": "yh-cwbhNFsA"
+        },
+        {
+            "duration": 20132,
+            "priority": 2,
+            "video_id": "J52OxNwobnM"
+        }
+    ],
+    "20230621": [
+        {
+            "duration": 18926,
+            "priority": 1,
+            "video_id": "DJjhCiyA8IQ"
+        },
+        {
+            "duration": 18926,
+            "priority": 2,
+            "video_id": "QbSJjeaUrS4"
+        }
+    ],
+    "20230622": [
+        {
+            "duration": 19075,
+            "priority": 1,
+            "video_id": "uACGrtdXlnY"
+        },
+        {
+            "duration": 19075,
+            "priority": 2,
+            "video_id": "IxzV-VnGYMA"
+        }
+    ],
+    "20230623": [
+        {
+            "duration": 20442,
+            "priority": 1,
+            "video_id": "gyryHV_1l98"
+        },
+        {
+            "duration": 20443,
+            "priority": 2,
+            "video_id": "smp4nNzJrd0"
+        }
+    ],
+    "20230627": [
+        {
+            "duration": 3985,
+            "priority": 1,
+            "video_id": "CXC_uAKlwYA"
+        },
+        {
+            "duration": 19546,
+            "priority": 2,
+            "video_id": "FRmkJocbcrY"
+        }
+    ],
+    "20230628": [
+        {
+            "duration": 18284,
+            "priority": 1,
+            "video_id": "wIPEC1l-o4I"
+        },
+        {
+            "duration": 18284,
+            "priority": 2,
+            "video_id": "sR6vhQd2ys8"
+        }
+    ],
+    "20230629": [
+        {
+            "duration": 17880,
+            "priority": 1,
+            "video_id": "hDlFZio-jOc"
+        },
+        {
+            "duration": 17880,
+            "priority": 2,
+            "video_id": "SsgRxQEayqQ"
+        }
+    ],
+    "20230630": [
+        {
+            "duration": 18781,
+            "priority": 1,
+            "video_id": "-dg-QN__C4w"
+        },
+        {
+            "duration": 18781,
+            "priority": 2,
+            "video_id": "YAkrgD9WhBE"
+        }
+    ],
+    "20230704": [
+        {
+            "duration": 17651,
+            "priority": 1,
+            "video_id": "sbS8H-1dMTA"
+        },
+        {
+            "duration": 17652,
+            "priority": 2,
+            "video_id": "sJaAkCfhsLs"
+        }
+    ],
+    "20230705": [
+        {
+            "duration": 21715,
+            "priority": 1,
+            "video_id": "vPVi61JX_ys"
+        },
+        {
+            "duration": 21715,
+            "priority": 2,
+            "video_id": "6eNV-Yq4kjw"
+        }
+    ],
+    "20230706": [
+        {
+            "duration": 20209,
+            "priority": 1,
+            "video_id": "Mf3MCCrFfgA"
+        },
+        {
+            "duration": 20209,
+            "priority": 2,
+            "video_id": "nf2wIYTr41I"
+        }
+    ],
+    "20230707": [
+        {
+            "duration": 24978,
+            "priority": 1,
+            "video_id": "4BT1_17Uwtk"
+        },
+        {
+            "duration": 24980,
+            "priority": 2,
+            "video_id": "TJuun1ggfGk"
+        }
+    ],
+    "20230708": [
+        {
+            "duration": 25654,
+            "priority": 1,
+            "video_id": "nCvYUx3sNcs"
+        },
+        {
+            "duration": 25655,
+            "priority": 2,
+            "video_id": "PSfHt6ule-M"
+        }
+    ],
+    "20230711": [
+        {
+            "duration": 15653,
+            "priority": 1,
+            "video_id": "aUBFIP3jV54"
+        },
+        {
+            "duration": 15653,
+            "priority": 2,
+            "video_id": "JZfWP4Y_VS0"
+        }
+    ],
+    "20230712": [
+        {
+            "duration": 15407,
+            "priority": 1,
+            "video_id": "TV7AbB4vLvY"
+        },
+        {
+            "duration": 15407,
+            "priority": 2,
+            "video_id": "f43y4oKFB0M"
+        }
+    ],
+    "20230713": [
+        {
+            "duration": 15311,
+            "priority": 1,
+            "video_id": "rtKkKaR8foY"
+        },
+        {
+            "duration": 15311,
+            "priority": 2,
+            "video_id": "6Gd2KutEMyU"
+        }
+    ],
+    "20230714": [
+        {
+            "duration": 15384,
+            "priority": 1,
+            "video_id": "_6VTndi-bxo"
+        },
+        {
+            "duration": 15384,
+            "priority": 2,
+            "video_id": "S-6cWfDuTYI"
+        }
+    ],
+    "20230715": [
+        {
+            "duration": 16607,
+            "priority": 1,
+            "video_id": "v6Rs8woUvHY"
+        },
+        {
+            "duration": 16607,
+            "priority": 2,
+            "video_id": "WO97rqRxRpw"
+        }
+    ],
+    "20230718": [
+        {
+            "duration": 18059,
+            "priority": 1,
+            "video_id": "YSLzuQ116gY"
+        },
+        {
+            "duration": 18059,
+            "priority": 2,
+            "video_id": "Issl6Up5SOE"
+        }
+    ],
+    "20230719": [
+        {
+            "duration": 17464,
+            "priority": 1,
+            "video_id": "s-plJyFxkbA"
+        },
+        {
+            "duration": 17464,
+            "priority": 2,
+            "video_id": "nYnERkErFXU"
+        }
+    ],
+    "20230720": [
+        {
+            "duration": 17274,
+            "priority": 1,
+            "video_id": "HZyCpnc7l5g"
+        },
+        {
+            "duration": 17274,
+            "priority": 2,
+            "video_id": "XV5Z69vj-wE"
+        }
+    ],
+    "20230725": [
+        {
+            "duration": 14710,
+            "priority": 1,
+            "video_id": "GESf7EIxQyU"
+        },
+        {
+            "duration": 14710,
+            "priority": 2,
+            "video_id": "qg_1Mx-pRgs"
+        }
+    ],
+    "20230726": [
+        {
+            "duration": 15589,
+            "priority": 1,
+            "video_id": "4I8hDN91n8k"
+        },
+        {
+            "duration": 15589,
+            "priority": 2,
+            "video_id": "yt8kB7r3HUA"
+        }
+    ],
+    "20230727": [
+        {
+            "duration": 16782,
+            "priority": 1,
+            "video_id": "GK_4lLETZA8"
+        },
+        {
+            "duration": 16782,
+            "priority": 2,
+            "video_id": "bbU4kNF2xG4"
+        }
+    ],
+    "20230728": [
+        {
+            "duration": 21573,
+            "priority": 1,
+            "video_id": "4f_UNOZXNL8"
+        },
+        {
+            "duration": 21573,
+            "priority": 2,
+            "video_id": "y2Cx4wCveHs"
+        }
+    ],
+    "20230801": [
+        {
+            "duration": 12984,
+            "priority": 1,
+            "video_id": "VdWwPzFO-2o"
+        },
+        {
+            "duration": 12984,
+            "priority": 2,
+            "video_id": "B6WHKq7r5eM"
+        }
+    ],
+    "20230802": [
+        {
+            "duration": 15681,
+            "priority": 1,
+            "video_id": "mvA3umEmpiA"
+        },
+        {
+            "duration": 15681,
+            "priority": 2,
+            "video_id": "VvQNt-gu73c"
+        }
+    ],
+    "20230803": [
+        {
+            "duration": 15653,
+            "priority": 1,
+            "video_id": "nR54QpX6QaA"
+        },
+        {
+            "duration": 15653,
+            "priority": 2,
+            "video_id": "Unas8MDLifI"
+        }
+    ],
+    "20230804": [
+        {
+            "duration": 15398,
+            "priority": 1,
+            "video_id": "k7qNt8F_DWo"
+        },
+        {
+            "duration": 15398,
+            "priority": 2,
+            "video_id": "zj-GiH7jd9U"
+        }
+    ],
+    "20230805": [
+        {
+            "duration": 14773,
+            "priority": 1,
+            "video_id": "7kJbtnTnNto"
+        },
+        {
+            "duration": 14774,
+            "priority": 2,
+            "video_id": "MB4lefY-3Lg"
+        }
+    ],
+    "20230808": [
+        {
+            "duration": 17665,
+            "priority": 1,
+            "video_id": "Q9LhLUt1J3Y"
+        },
+        {
+            "duration": 17665,
+            "priority": 2,
+            "video_id": "dqbBHXDVBlA"
+        }
+    ],
+    "20230809": [
+        {
+            "duration": 14753,
+            "priority": 1,
+            "video_id": "XyuXeBVHWe8"
+        },
+        {
+            "duration": 14753,
+            "priority": 2,
+            "video_id": "sD8vT1HwbUc"
+        }
+    ],
+    "20230810": [
+        {
+            "duration": 15161,
+            "priority": 1,
+            "video_id": "tKHA1K6sclc"
+        },
+        {
+            "duration": 15161,
+            "priority": 2,
+            "video_id": "v9_2LEvIL4U"
+        }
+    ],
+    "20230811": [
+        {
+            "duration": 19091,
+            "priority": 1,
+            "video_id": "3JxEtCEBN9g"
+        },
+        {
+            "duration": 19091,
+            "priority": 2,
+            "video_id": "WFrKagjdj8w"
+        }
+    ],
+    "20230812": [
+        {
+            "duration": 16862,
+            "priority": 1,
+            "video_id": "NmrlUxdIlBE"
+        },
+        {
+            "duration": 16862,
+            "priority": 2,
+            "video_id": "6FOFvsozhuc"
+        }
+    ],
+    "20230813": [
+        {
+            "duration": 17570,
+            "priority": 1,
+            "video_id": "OsmCH90w6cE"
+        },
+        {
+            "duration": 17570,
+            "priority": 2,
+            "video_id": "kula_FJNvTE"
+        }
+    ],
+    "20230822": [
+        {
+            "duration": 16159,
+            "priority": 1,
+            "video_id": "j07yeGOcL_I"
+        },
+        {
+            "duration": 16159,
+            "priority": 2,
+            "video_id": "NXwp4tdSRZE"
+        }
+    ],
+    "20230823": [
+        {
+            "duration": 21169,
+            "priority": 1,
+            "video_id": "6PdSrieh08U"
+        },
+        {
+            "duration": 21169,
+            "priority": 2,
+            "video_id": "bMgSywM5eMc"
+        }
+    ],
+    "20230824": [
+        {
+            "duration": 17802,
+            "priority": 1,
+            "video_id": "l266Fjw3sPE"
+        },
+        {
+            "duration": 17803,
+            "priority": 2,
+            "video_id": "fG-AclR9BWw"
+        }
+    ],
+    "20230825": [
+        {
+            "duration": 7193,
+            "priority": 1,
+            "video_id": "euYJHKmKJTs"
+        },
+        {
+            "duration": 17841,
+            "priority": 1,
+            "video_id": "GDRZbCgNOBc"
+        },
+        {
+            "duration": 7193,
+            "priority": 2,
+            "video_id": "NwqXbndtHv8"
+        },
+        {
+            "duration": 17841,
+            "priority": 2,
+            "video_id": "PMs8Yhhkd20"
+        }
+    ],
+    "20230826": [
+        {
+            "duration": 21305,
+            "priority": 1,
+            "video_id": "47zOCryFiDI"
+        },
+        {
+            "duration": 21305,
+            "priority": 2,
+            "video_id": "eciG4kEh-c4"
+        }
+    ],
+    "20230829": [
+        {
+            "duration": 18595,
+            "priority": 1,
+            "video_id": "P6dyl9a3V1w"
+        },
+        {
+            "duration": 18596,
+            "priority": 2,
+            "video_id": "sofqQjiVnSg"
+        }
+    ],
+    "20230830": [
+        {
+            "duration": 2753,
+            "priority": 1,
+            "video_id": "GP5jzyVhMuA"
+        },
+        {
+            "duration": 20768,
+            "priority": 2,
+            "video_id": "lrhdGe8WcvA"
+        }
+    ],
+    "20230901": [
+        {
+            "duration": 29187,
+            "priority": 1,
+            "video_id": "ObwAav0NHMQ"
+        },
+        {
+            "duration": 29187,
+            "priority": 2,
+            "video_id": "mByHtn17HfI"
+        }
+    ],
+    "20230903": [
+        {
+            "duration": 19499,
+            "priority": 1,
+            "video_id": "lj7U4FQeS3U"
+        },
+        {
+            "duration": 19499,
+            "priority": 2,
+            "video_id": "ZvjqF4E2zGM"
+        }
+    ],
+    "20230904": [
+        {
+            "duration": 20139,
+            "priority": 1,
+            "video_id": "a3lx0-6fr6E"
+        },
+        {
+            "duration": 20139,
+            "priority": 2,
+            "video_id": "ymBr2oH5Y5E"
+        }
+    ],
+    "20230905": [
+        {
+            "duration": 21599,
+            "priority": 1,
+            "video_id": "_H5qBg-DurI"
+        },
+        {
+            "duration": 21599,
+            "priority": 2,
+            "video_id": "jTupdDtuCVQ"
+        }
+    ],
+    "20230906": [
+        {
+            "duration": 24853,
+            "priority": 1,
+            "video_id": "BwUO0F_FszM"
+        },
+        {
+            "duration": 24853,
+            "priority": 2,
+            "video_id": "bU3IvPazoJM"
+        }
+    ],
+    "20230907": [
+        {
+            "duration": 24661,
+            "priority": 1,
+            "video_id": "BFZhO1T3qEs"
+        },
+        {
+            "duration": 24661,
+            "priority": 2,
+            "video_id": "Lm_3AjgTSlo"
+        }
+    ],
+    "20230908": [
+        {
+            "duration": 22622,
+            "priority": 1,
+            "video_id": "wJEKF_b0emM"
+        },
+        {
+            "duration": 22622,
+            "priority": 2,
+            "video_id": "X2NnAB134sU"
+        }
+    ],
+    "20230909": [
+        {
+            "duration": 24515,
+            "priority": 1,
+            "video_id": "aeqQ8ClHsK0"
+        },
+        {
+            "duration": 24515,
+            "priority": 2,
+            "video_id": "d4h7ftx5A_0"
+        }
+    ],
+    "20230912": [
+        {
+            "duration": 21436,
+            "priority": 1,
+            "video_id": "Y0KQA2WCXBo"
+        },
+        {
+            "duration": 21436,
+            "priority": 2,
+            "video_id": "ffcMjVnpvOA"
+        }
+    ],
+    "20230913": [
+        {
+            "duration": 21730,
+            "priority": 1,
+            "video_id": "8tcv-3wFG9Q"
+        },
+        {
+            "duration": 21730,
+            "priority": 2,
+            "video_id": "Mf8_1iKfakU"
+        }
+    ],
+    "20230914": [
+        {
+            "duration": 17987,
+            "priority": 1,
+            "video_id": "nnteZqeS3IU"
+        },
+        {
+            "duration": 17987,
+            "priority": 2,
+            "video_id": "2yfab4xV73Y"
+        }
+    ],
+    "20230919": [
+        {
+            "duration": 22913,
+            "priority": 1,
+            "video_id": "L6Pu1sDs4_g"
+        },
+        {
+            "duration": 22913,
+            "priority": 2,
+            "video_id": "mlCoSde2h5Q"
+        }
+    ],
+    "20230920": [
+        {
+            "duration": 22602,
+            "priority": 1,
+            "video_id": "rvCNris2KBA"
+        },
+        {
+            "duration": 22603,
+            "priority": 2,
+            "video_id": "glJlKFlAYaA"
+        }
+    ],
+    "20230921": [
+        {
+            "duration": 25443,
+            "priority": 1,
+            "video_id": "4dV7GXhBsaA"
+        },
+        {
+            "duration": 25443,
+            "priority": 2,
+            "video_id": "S3TQiE2QNDE"
+        }
+    ],
+    "20230922": [
+        {
+            "duration": 22019,
+            "priority": 1,
+            "video_id": "sHheUDLUca4"
+        },
+        {
+            "duration": 22020,
+            "priority": 2,
+            "video_id": "P4fXbTb8Z3g"
+        }
+    ],
+    "20230923": [
+        {
+            "duration": 20369,
+            "priority": 1,
+            "video_id": "g_GearaeJ10"
+        },
+        {
+            "duration": 20369,
+            "priority": 2,
+            "video_id": "a9dqeNlQPK0"
+        }
+    ],
+    "20230924": [
+        {
+            "duration": 18191,
+            "priority": 1,
+            "video_id": "rmo9qAyBbe8"
+        },
+        {
+            "duration": 18191,
+            "priority": 2,
+            "video_id": "3RfetIPIWsI"
+        }
+    ],
+    "20230925": [
+        {
+            "duration": 19163,
+            "priority": 1,
+            "video_id": "KaEl1cJofLQ"
+        },
+        {
+            "duration": 19164,
+            "priority": 2,
+            "video_id": "MIAqWOFx_ug"
+        }
+    ],
+    "20230926": [
+        {
+            "duration": 20906,
+            "priority": 1,
+            "video_id": "cca_-BkawzQ"
+        },
+        {
+            "duration": 20906,
+            "priority": 2,
+            "video_id": "-EhNsP6ryLE"
+        }
+    ],
+    "20231022": [
+        {
+            "duration": 18655,
+            "priority": 1,
+            "video_id": "i_UNkFiGw0M"
+        },
+        {
+            "duration": 18655,
+            "priority": 2,
+            "video_id": "g8eN0oFZzd8"
+        }
+    ],
+    "20231023": [
+        {
+            "duration": 22736,
+            "priority": 1,
+            "video_id": "i_dZWeIKNAs"
+        },
+        {
+            "duration": 22736,
+            "priority": 2,
+            "video_id": "7_QzMIHyJI0"
+        }
+    ],
+    "20231024": [
+        {
+            "duration": 23296,
+            "priority": 1,
+            "video_id": "PFmAg8akeYk"
+        },
+        {
+            "duration": 23296,
+            "priority": 2,
+            "video_id": "0h4uDc_QZU0"
+        }
+    ],
+    "20231025": [
+        {
+            "duration": 18087,
+            "priority": 1,
+            "video_id": "i_K8ePpGCYw"
+        },
+        {
+            "duration": 18087,
+            "priority": 2,
+            "video_id": "5Ga3PY9r_HE"
+        }
+    ],
+    "20231026": [
+        {
+            "duration": 30991,
+            "priority": 1,
+            "video_id": "DBc9eMiJFJ4"
+        },
+        {
+            "duration": 30991,
+            "priority": 2,
+            "video_id": "_WRo6z4gvVw"
+        }
+    ],
+    "20231027": [
+        {
+            "duration": 20119,
+            "priority": 1,
+            "video_id": "ItPMuanh9fk"
+        },
+        {
+            "duration": 20119,
+            "priority": 2,
+            "video_id": "zoEqATqeFlo"
+        }
+    ],
+    "20231028": [
+        {
+            "duration": 19062,
+            "priority": 1,
+            "video_id": "zSEEmjTy7pE"
+        },
+        {
+            "duration": 19062,
+            "priority": 2,
+            "video_id": "su2SGw4bkkQ"
+        }
+    ],
+    "20231030": [
+        {
+            "duration": 19319,
+            "priority": 1,
+            "video_id": "R9jSzKFIUvU"
+        },
+        {
+            "duration": 19319,
+            "priority": 2,
+            "video_id": "AWdUMeTlzYA"
+        }
+    ],
+    "20231031": [
+        {
+            "duration": 14751,
+            "priority": 1,
+            "video_id": "fn6Psq084x0"
+        },
+        {
+            "duration": 14751,
+            "priority": 2,
+            "video_id": "68yD3iV3E3o"
+        }
+    ],
+    "20231101": [
+        {
+            "duration": 21193,
+            "priority": 1,
+            "video_id": "PmN2-7jmQBU"
+        },
+        {
+            "duration": 21193,
+            "priority": 2,
+            "video_id": "oAwC4QBY5qE"
+        }
+    ],
+    "20231102": [
+        {
+            "duration": 22013,
+            "priority": 1,
+            "video_id": "A0zP84do2ig"
+        },
+        {
+            "duration": 22013,
+            "priority": 2,
+            "video_id": "cgSJ0CxytUs"
+        }
+    ]
+}

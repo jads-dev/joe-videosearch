@@ -11,6 +11,8 @@ import AccordionTab from 'primevue/accordiontab';
 // import Column from 'primevue/column';
 import Listbox from 'primevue/listbox';
 import ScrollPanel from 'primevue/scrollpanel';
+import ProgressBar from 'primevue/progressbar';
+import ProgressSpinner from 'primevue/progressspinner';
 
 import 'primevue/resources/themes/viva-dark/theme.css'
 import 'primeflex/primeflex.css'
@@ -29,6 +31,8 @@ app.component('Accordion', Accordion);
 app.component('AccordionTab', AccordionTab);
 app.component('Listbox', Listbox);
 app.component('ScrollPanel', ScrollPanel);
+app.component('ProgressBar', ProgressBar);
+app.component('ProgressSpinner', ProgressSpinner);
 // app.component('DataView', DataView);
 // app.component('DataTable', DataTable);
 // app.component('Column', Column);

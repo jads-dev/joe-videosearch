@@ -7,8 +7,9 @@
           @keyup.enter="search()" />
         <Button label="Search" @click="search()" />
       </div>
-      <div>
-        <ProgressBar class="mt-2" v-if="is_loading" mode="indeterminate" style="height: 6px" />
+      <div v-if="is_loading">
+        <small>Loading is slow the first time as it's downloading the database. <br /></small>
+        <ProgressBar class="mt-2"  mode="indeterminate" style="height: 6px" />
       </div>
     </div>
     <div class="vodlist ">

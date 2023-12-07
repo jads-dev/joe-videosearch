@@ -1,0 +1,2 @@
+python import_transcripts.py
+call update_ghpages.bat

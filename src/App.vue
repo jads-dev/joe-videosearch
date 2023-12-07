@@ -48,7 +48,7 @@
 
       </ScrollPanel>
     </div>
-    <div class="video">
+    <div class="video" v-if="show_ia">
       <div class="text-center w-full">
         Video
       </div>
@@ -56,23 +56,34 @@
         Video is loading, give it a sec.. <br />
         <ProgressSpinner />
       </div>
-      <video controls ref="vodplayer" v-show="show_player" style="max-width: 33vw;">
+      <video controls ref="vodplayer" v-if="show_ia" style="max-width: 33vw;">
         <source src="" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+    </div>
+    <div class="youtube-player" v-if="show_yt" style="padding-bottom:56.25%">
+      <div class="text-center w-full">
+        Video
+        {{ video_url_youtube }}
+      </div>
+      <iframe width="100%" height="100%" ref="yt_player" :src="video_url_youtube">
+      </iframe>
     </div>
 
   </div>
 </template>
   
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, nextTick } from 'vue'
 import { createDbWorker } from "sql.js-httpvfs";
 
 const search_term = ref('')
 const is_loading = ref(false)
 const vodplayer = ref()
-const show_player = ref(false)
+
+const show_ia = ref(false)
+const show_yt = ref(false)
+const video_url_youtube = ref('')
 const player_loading = ref(false)
 
 const results = ref()
@@ -122,7 +133,7 @@ function timeToSeconds(timeString) {
   const totalTimeInSeconds =
     hoursInSeconds + minutesInSeconds + secondsInSeconds + millisecondsInSeconds;
 
-  return totalTimeInSeconds;
+  return parseInt(totalTimeInSeconds);
 }
 
 function timeToPrettyString(timeString) {
@@ -140,18 +151,33 @@ async function select_vod(event) {
 }
 
 async function playsegment(event) {
-  const video = vodplayer.value
-  video.src = event.value.video_url;
-  video.load();
-  show_player.value = false;
-  player_loading.value = true;
+  show_ia.value = false;
+  show_yt.value = false;
 
-  video.onloadeddata = () => {
-    video.currentTime = timeToSeconds(event.value.start_time);
-    video.play();
-    show_player.value = true;
-    player_loading.value = false;
-  };
+
+  if (event.value.video_url_youtube) {
+    show_yt.value = true;
+    video_url_youtube.value = "https://www.youtube-nocookie.com/embed/" + event.value.video_url_youtube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
+    return;
+  }
+  else {
+    show_ia.value = true;
+    nextTick(() => {
+      const video = vodplayer.value
+      video.src = event.value.video_url;
+      video.load();
+      player_loading.value = true;
+      video.onloadeddata = () => {
+        video.currentTime = timeToSeconds(event.value.start_time);
+        video.play();
+        player_loading.value = false;
+      };
+    })
+
+
+  }
+
+
 }
 
 async function search() {
@@ -159,7 +185,7 @@ async function search() {
   results.value = [];
 
   let query = `
-  select vod_id, vods.title, video_url, game, date, speaker, start_time, end_time, content
+  select vod_id, vods.title, video_url, video_url_youtube, game, date, speaker, start_time, end_time, content
   from transcripts
   left join vods on transcripts.vod = vods.vod_id
   where content like '%${search_term.value}%'
@@ -188,23 +214,16 @@ async function search() {
         title: title,
         game: result.game,
         date: result.date,
-        sentences: [
-          {
-            speaker: result.speaker,
-            start_time: result.start_time,
-            content: result.content,
-            video_url: result.video_url,
-          },
-        ],
-      });
-    } else {
-      _results[_sentences[vod_id]].sentences.push({
-        speaker: result.speaker,
-        start_time: result.start_time,
-        content: result.content,
-        video_url: result.video_url,
+        sentences: [],
       });
     }
+    _results[_sentences[vod_id]].sentences.push({
+      speaker: result.speaker,
+      start_time: result.start_time,
+      content: result.content,
+      video_url: result.video_url,
+      video_url_youtube: result.video_url_youtube,
+    });
   }
 
   results.value = _results;

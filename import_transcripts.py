@@ -234,7 +234,7 @@ def fill_vod_metadata(connection, cursor):
 
         if not video_url_youtube:
             if not is_twitch:
-                video_url_youtube = f"https://www.youtube.com/watch?v={vod_id}"
+                video_url_youtube = f"{vod_id}"
             else:
                 video_url_youtube = get_youtube_url(youtube_data, row["date"], duration)
 

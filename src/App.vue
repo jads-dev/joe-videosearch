@@ -9,7 +9,7 @@
       </div>
       <div v-if="is_loading">
         <small>Loading is slow the first time as it's downloading the database. <br /></small>
-        <ProgressBar class="mt-2"  mode="indeterminate" style="height: 6px" />
+        <ProgressBar class="mt-2" mode="indeterminate" style="height: 6px" />
       </div>
     </div>
     <div class="vodlist ">
@@ -51,10 +51,11 @@
     </div>
     <div class="text-center w-full">
       Video
-      <TabView v-model:activeIndex="active_tab" @tab-change="on_tab_change($event)" :lazy="true" v-if="show_videos">
+      <TabView v-model:activeIndex="active_tab" @update:activeIndex="on_tab_change($event)" v-if="show_videos" :lazy="true">
         <TabPanel header="YouTube" :disabled="!show_yt" class="video" style="padding-bottom:56.25%;min-height: 300px;">
           <p class="my-0" style="font-size: 12px;">
-            Some youtube videos are not matched properly, report to nodja if the timestamp/video looks incorrect. Internet Archive version should always be correct.
+            Some youtube videos are not matched properly, report to nodja if the timestamp/video looks incorrect. Internet
+            Archive version should always be correct.
           </p>
 
           <iframe width="100%" height="400px" ref="yt_player" :src="video_url_youtube">
@@ -66,10 +67,12 @@
             Video is loading. <br />
             <ProgressSpinner />
           </div>
+          
           <video controls ref="vodplayer" style="max-width: 33vw;" v-show="!player_loading">
             <source src="" type="video/mp4">
             Your browser does not support the video tag.
-          </video>
+          </video> <br />
+          <Button @click="play_ia()">Press this playback fails, I'll fix it properly tomorrow</Button>
         </TabPanel>
       </TabView>
     </div>
@@ -159,24 +162,26 @@ async function select_vod(event) {
 async function playsegment(event) {
   show_yt.value = false;
 
+  video_url_ia.value = event.value.video_url;
+  video_ts_ia.value = timeToSeconds(event.value.start_time);
+
 
   if (event.value.video_url_youtube) {
     show_yt.value = true;
     active_tab.value = 0;
     video_url_youtube.value = "https://www.youtube-nocookie.com/embed/" + event.value.video_url_youtube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
   }
-  else
+  else {
     active_tab.value = 1;
-
-  video_url_ia.value = event.value.video_url;
-  video_ts_ia.value = timeToSeconds(event.value.start_time);
+    play_ia()
+  }
   show_videos.value = true;
 }
 
-async function on_tab_change(event) {
-  if (event.index == 1) {
-    nextTick(() => {
-      const video = vodplayer.value
+async function play_ia() {
+  nextTick(() => {
+    const video = vodplayer.value
+    if (video.src != video_url_ia.value) {
       video.src = video_url_ia.value;
       video.load();
       player_loading.value = true;
@@ -185,9 +190,19 @@ async function on_tab_change(event) {
         video.play();
         player_loading.value = false;
       };
-    })
+    }
+    else {
+      video.currentTime = video_ts_ia.value;
+      video.play();
+    }
 
-  }
+  })
+}
+
+async function on_tab_change(event) {
+  if (event.index == 1)
+    play_ia()
+
 }
 
 async function search() {
@@ -204,7 +219,7 @@ async function search() {
 
   let _ret = await dbworker.value.db.query(query);
 
-  console.log(_ret)
+
   let _sentences = {};
   let _results = [];
 
@@ -218,10 +233,6 @@ async function search() {
       title = title.split(" - ").slice(0, -1).join(" - ");
     }
 
-    console.log(_sentences)
-
-    const deepCopyResults = JSON.parse(JSON.stringify(_results));
-    console.log(deepCopyResults);
     if (_sentences[vod_id] === undefined || _sentences[vod_id] === null) {
       _sentences[vod_id] = _results.length;
       _results.push({

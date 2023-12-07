@@ -48,28 +48,30 @@
 
       </ScrollPanel>
     </div>
-    <div class="video" v-if="show_ia">
-      <div class="text-center w-full">
-        Video
-      </div>
-      <div class="text-center" v-if="player_loading">
-        Video is loading, give it a sec.. <br />
-        <ProgressSpinner />
-      </div>
-      <video controls ref="vodplayer" v-if="show_ia" style="max-width: 33vw;">
-        <source src="" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-    <div class="youtube-player" v-if="show_yt" style="padding-bottom:56.25%">
-      <div class="text-center w-full">
-        Video
-        {{ video_url_youtube }}
-      </div>
-      <iframe width="100%" height="100%" ref="yt_player" :src="video_url_youtube">
-      </iframe>
-    </div>
+    <div class="text-center w-full">
+      Video
+      <TabView v-model:activeIndex="active_tab" @tab-change="on_tab_change($event)" :lazy="true" v-if="show_videos">
+        <TabPanel header="YouTube" :disabled="!show_yt" class="video" style="padding-bottom:56.25%;min-height: 300px;">
+          <p class="my-0" style="font-size: 12px;">
+            Some youtube videos are not matched properly, report to nodja if the timestamp/video looks incorrect. Internet Archive version should always be correct.
+          </p>
 
+          <iframe width="100%" height="400px" ref="yt_player" :src="video_url_youtube">
+          </iframe>
+        </TabPanel>
+        <TabPanel header="Internet Archive" class="video">
+          <div class="text-center" v-show="player_loading">
+            Internet Archive is slow, give it a sec.. <br />
+            Video is loading. <br />
+            <ProgressSpinner />
+          </div>
+          <video controls ref="vodplayer" style="max-width: 33vw;" v-show="!player_loading">
+            <source src="" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </TabPanel>
+      </TabView>
+    </div>
   </div>
 </template>
   
@@ -81,10 +83,13 @@ const search_term = ref('')
 const is_loading = ref(false)
 const vodplayer = ref()
 
-const show_ia = ref(false)
+const show_videos = ref(false)
 const show_yt = ref(false)
 const video_url_youtube = ref('')
+const video_url_ia = ref('')
+const video_ts_ia = ref(0)
 const player_loading = ref(false)
+const active_tab = ref(0);
 
 const results = ref()
 const search_completed = ref(false)
@@ -151,33 +156,37 @@ async function select_vod(event) {
 }
 
 async function playsegment(event) {
-  show_ia.value = false;
   show_yt.value = false;
 
 
   if (event.value.video_url_youtube) {
     show_yt.value = true;
+    active_tab.value = 0;
     video_url_youtube.value = "https://www.youtube-nocookie.com/embed/" + event.value.video_url_youtube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
-    return;
   }
-  else {
-    show_ia.value = true;
+  else
+    active_tab.value = 1;
+
+  video_url_ia.value = event.value.video_url;
+  video_ts_ia.value = timeToSeconds(event.value.start_time);
+  show_videos.value = true;
+}
+
+async function on_tab_change(event) {
+  if (event.index == 1) {
     nextTick(() => {
       const video = vodplayer.value
-      video.src = event.value.video_url;
+      video.src = video_url_ia.value;
       video.load();
       player_loading.value = true;
       video.onloadeddata = () => {
-        video.currentTime = timeToSeconds(event.value.start_time);
+        video.currentTime = video_ts_ia.value;
         video.play();
         player_loading.value = false;
       };
     })
 
-
   }
-
-
 }
 
 async function search() {
@@ -189,10 +198,12 @@ async function search() {
   from transcripts
   left join vods on transcripts.vod = vods.vod_id
   where content like '%${search_term.value}%'
-  order by date
+  order by vods.date, vods.vod_id, start_time, end_time
 `;
 
   let _ret = await dbworker.value.db.query(query);
+
+  console.log(_ret)
   let _sentences = {};
   let _results = [];
 
@@ -206,8 +217,11 @@ async function search() {
       title = title.split(" - ").slice(0, -1).join(" - ");
     }
 
+    console.log(_sentences)
 
-    if (!_sentences[vod_id]) {
+    const deepCopyResults = JSON.parse(JSON.stringify(_results));
+    console.log(deepCopyResults);
+    if (_sentences[vod_id] === undefined || _sentences[vod_id] === null) {
       _sentences[vod_id] = _results.length;
       _results.push({
         vod_id: vod_id,
@@ -224,6 +238,8 @@ async function search() {
       video_url: result.video_url,
       video_url_youtube: result.video_url_youtube,
     });
+
+
   }
 
   results.value = _results;

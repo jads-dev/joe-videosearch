@@ -13,6 +13,8 @@ import Listbox from 'primevue/listbox';
 import ScrollPanel from 'primevue/scrollpanel';
 import ProgressBar from 'primevue/progressbar';
 import ProgressSpinner from 'primevue/progressspinner';
+import TabView from 'primevue/tabview';
+import TabPanel from 'primevue/tabpanel';
 
 import 'primevue/resources/themes/viva-dark/theme.css'
 import 'primeflex/primeflex.css'
@@ -33,6 +35,8 @@ app.component('Listbox', Listbox);
 app.component('ScrollPanel', ScrollPanel);
 app.component('ProgressBar', ProgressBar);
 app.component('ProgressSpinner', ProgressSpinner);
+app.component('TabView', TabView);
+app.component('TabPanel', TabPanel);
 // app.component('DataView', DataView);
 // app.component('DataTable', DataTable);
 // app.component('Column', Column);

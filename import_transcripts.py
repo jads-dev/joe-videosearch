@@ -28,6 +28,7 @@ def create_db():
             chat_id TEXT,
             video_url TEXT,
             video_url_youtube TEXT,
+            video_url_peertube TEXT,
             title TEXT,
             game TEXT,
             date TEXT,

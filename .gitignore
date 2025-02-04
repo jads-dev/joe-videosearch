@@ -32,3 +32,4 @@ coverage
 static/data-*
 /data.db
 /data_yt.db
+.env

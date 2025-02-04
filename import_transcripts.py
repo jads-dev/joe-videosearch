@@ -25,14 +25,9 @@ def create_db():
         """
         CREATE TABLE IF NOT EXISTS vods (
             vod_id TEXT PRIMARY KEY,
-            chat_id TEXT,
-            video_url TEXT,
-            video_url_youtube TEXT,
             video_url_peertube TEXT,
             title TEXT,
-            game TEXT,
-            date TEXT,
-            duration INTEGER
+            date TEXT
         )
     """
     )
@@ -135,113 +130,39 @@ def export_db():
         json.dump(data, f)
 
 
-def search_ia(dates):
-    vod_files = defaultdict(list)
-    suffixes = {f"{date[:4]}{date[5:7]}" for date in dates}
-    for suffix in tqdm(suffixes):
-        identifier = f"josephanderson_twitch_{suffix}"
-        item = ia.get_item(identifier)
-        video_files = [file for file in item.files if file["format"] in ("MPEG4", "h.264", "h.264 IA")]
-        for file in video_files:
-            p = Path(file["name"])
-            vod_id = p.stem.split(" - ")[-1].replace(".ia", "")
-            vod_files[vod_id].append({"identifier": identifier, "name": file["name"], "size": file["size"], "length": file.get("length", None)})
-
-    return vod_files
-
-
-def get_games_by_date():
-    games_by_date = defaultdict(list)
-    with open("streamdates.tsv", "r", newline="") as in_file:
-        tsv_reader = csv.reader(in_file, delimiter="\t")
-        for row in tsv_reader:
-            if len(row) >= 2:
-                date, game = row[1], row[2]
-                games_by_date[date].append(game)
-    return games_by_date
-
-
-def get_youtube_data():
-    with open("youtube_data.json", "r") as f:
-        youtube_data = json.load(f)
-    _youtube_data = {}
-    for key, value in youtube_data.items():
-        new_key = f"{key[:4]}-{key[4:6]}-{key[6:8]}"
-        _youtube_data[new_key] = value
-    return _youtube_data
-
-
-def get_youtube_url(youtube_urls, date, duration):
-    url_candidates = youtube_urls.get(date, [])
-    for candidate in url_candidates:
-        if abs(candidate["duration"] - duration) >= 2:
-            return f"https://www.youtube.com/watch?v={candidate['video_id']}"
-
-
 def fill_vod_metadata(connection, cursor):
-    cursor.execute("SELECT * FROM vods where video_url is null or duration is null")
-    dates = {row["date"] for row in cursor}
-    vod_files = search_ia(dates)
 
-    games_by_date = get_games_by_date()
-    youtube_data = get_youtube_data()
+    cursor.execute("SELECT external_id, name as title, url as video_url_peertube, original_publish_date as date FROM peertube_videos")
+    videos_peertube = {row["external_id"]: row for row in cursor.fetchall()}
 
-    # cursor.execute("SELECT * FROM vods where video_url is null or chat_id is null or game is null")
-    cursor.execute("SELECT * FROM vods where video_url is null or video_url_youtube is null or chat_id is null or game is null or duration is null")
+    cursor.execute("SELECT * FROM vods where video_url_peertube is null")
 
     twitch_pattern = r"^v\d+$"
     rows = [row for row in cursor.fetchall()]
     for row in tqdm(rows):
         vod_id = row["vod_id"]
-        chat_id = row["chat_id"]
+        date = row["date"]
         title = None  # file title might be wrong so we force update it if we find a new one
-        game = row["game"]
-        video_url = row["video_url"]
-        video_url_youtube = row["video_url_youtube"]
-        duration = row["duration"]
-
-        ia_files = vod_files.get(vod_id, [])
-        if ia_files:
-            ia_smallest_file = min(ia_files, key=lambda x: x.get("size", 0))
-        else:
-            ia_smallest_file = {}
+        video_url_peertube = row["video_url_peertube"]
 
         is_twitch = re.match(twitch_pattern, vod_id)
-        if not chat_id and is_twitch:
-            chat_id = vod_id
 
-        chat_filename = chat_id.lstrip("v") if chat_id else "none"
-        chat_file = Path(f"D:/Downloads/joe/chat/{chat_filename}.json")
-        if chat_file.exists():
-            with open(chat_file, "r", encoding="utf-8") as f:
-                chat_metadata = json.load(f)["video"]
-            if not title:
-                title = chat_metadata.get("title", row["title"])  # if we can't find a new title use the db one
-            if not game:
-                game = chat_metadata.get("game", None)
-            if not game:  # fallback method
-                # game = get_game_by_date(row["date"])
-                game = games_by_date.get(row["date"], [None])[0]
+        external_id = "twitch:" + vod_id if is_twitch else "youtube:" + vod_id
+        if external_id not in videos_peertube:
+            print(f"Video {external_id} not found in peertube database")
+            continue
 
-        if not duration:
-            duration = ia_smallest_file.get("length", None)
-            if duration is not None:
-                duration = int(duration.split(".")[0])
-
-        if not video_url and ia_smallest_file:
-            filename_url = urllib.parse.quote(ia_smallest_file["name"])
-            identifier = ia_smallest_file["identifier"]
-            video_url = f"https://archive.org/download/{identifier}/{filename_url}"
-
-        if not video_url_youtube:
-            if not is_twitch:
-                video_url_youtube = f"{vod_id}"
-            else:
-                video_url_youtube = get_youtube_url(youtube_data, row["date"], duration)
+        if not video_url_peertube:
+            video_url_peertube = videos_peertube[external_id]["video_url_peertube"]
+        if not title:
+            title = videos_peertube[external_id]["title"]
+        if not date:
+            date = videos_peertube[external_id]["date"]
+            date = date[:10] if date else None
 
         cursor.execute(
-            "update vods set chat_id = ?, video_url = ?, video_url_youtube = ?, title = ?, game = ?, duration = ? where vod_id = ?",
-            (chat_id, video_url, video_url_youtube, title, game, duration, vod_id),
+            "update vods set video_url_peertube = ?,  title = ?, date = ? where vod_id = ?",
+            (video_url_peertube, title, date, vod_id),
         )
         connection.commit()
 

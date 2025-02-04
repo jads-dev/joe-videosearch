@@ -1,2 +1,3 @@
+python import_peertube.py
 python import_transcripts.py
-call update_ghpages.bat
+rem call update_ghpages.bat

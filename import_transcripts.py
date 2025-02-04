@@ -171,6 +171,8 @@ if __name__ == "__main__":
     connection, cursor = create_db()
     transcripts_folder = Path(R"D:\Downloads\joe\transcripts")
     data_to_import = []
+
+    done_work = False
     for file in tqdm(list(transcripts_folder.glob("*.srt"))):
         splits = file.stem.split(" - ")
         vod_id = splits[-1]
@@ -188,9 +190,12 @@ if __name__ == "__main__":
         else:
             import_srt_to_sqlite(connection, cursor, file, vod_id)
             cursor.execute("INSERT INTO vods (vod_id, title, date) VALUES (?,?,?)", (vod_id, title, date))
+            done_work = True
     connection.commit()
 
     fill_vod_metadata(connection, cursor)
-
     connection.close()
-    export_db()
+
+    if done_work:
+        export_db()
+        os.system("update_ghpages.bat")

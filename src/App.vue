@@ -18,13 +18,14 @@
       <ScrollPanel style="width: 100%; height: 90vh">
         <Listbox :options="results" optionLabel="content" class="w-full" @change="select_vod($event)" :emptyMessage="search_completed ? 'No results for that search term.' : 'Search something to get results.'">
           <template #option="slotProps">
-            <div class="grid-nogutter align-items-center">
-              <div class="col-12">
-                {{ slotProps.option.date }} {{ slotProps.option.game }} <br />
-              </div>
-              <div class="col-12">
-                <span class="text-xs">{{ slotProps.option.title }}</span> <br />
-              </div>
+            <div class="grid-nogutter align-items-center flex">
+
+                <div class="col-2">
+                <span class="text-xs">{{ slotProps.option.date }}</span>
+                </div>
+                <div class="col-10">
+                {{ slotProps.option.title }}
+                </div>
             </div>
           </template>
         </Listbox>
@@ -49,8 +50,8 @@
     </div>
     <div class="text-center w-full">
       Video
-      <div v-if="show_videos" class="video" style="padding-bottom:56.25%;min-height: 300px;">
-        <iframe width="100%" height="400px" ref="pt_player" :src="video_url_peertube" allow="autoplay" allowfullscreen>
+      <div v-show="show_videos" class="video" style="padding-bottom:56.25%;min-height: 300px;">
+        <iframe width="100%" height="400px" ref="pt_player" :src="video_url_peertube" allow="autoplay; encrypted-media" allowfullscreen>
         </iframe>
       </div>
     </div>

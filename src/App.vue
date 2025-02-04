@@ -3,8 +3,7 @@
     <div class="top">
       <div>
         <h5>Don't search for very common words, you'll kill the tab.</h5>
-        <input-text v-model="search_term" type="text" placeholder="Search" :loading="is_loading"
-          @keyup.enter="search()" />
+        <input-text v-model="search_term" type="text" placeholder="Search" :loading="is_loading" @keyup.enter="search()" />
         <Button label="Search" @click="search()" />
       </div>
       <div v-if="is_loading">
@@ -17,8 +16,7 @@
         Vods
       </div>
       <ScrollPanel style="width: 100%; height: 90vh">
-        <Listbox :options="results" optionLabel="content" class="w-full" @change="select_vod($event)"
-          :emptyMessage="search_completed ? 'No results for that search term.' : 'Search something to get results.'">
+        <Listbox :options="results" optionLabel="content" class="w-full" @change="select_vod($event)" :emptyMessage="search_completed ? 'No results for that search term.' : 'Search something to get results.'">
           <template #option="slotProps">
             <div class="grid-nogutter align-items-center">
               <div class="col-12">
@@ -51,54 +49,31 @@
     </div>
     <div class="text-center w-full">
       Video
-      <TabView v-model:activeIndex="active_tab" @update:activeIndex="on_tab_change($event)" v-if="show_videos" :lazy="true">
-        <TabPanel header="YouTube" :disabled="!show_yt" class="video" style="padding-bottom:56.25%;min-height: 300px;">
-          <p class="my-0" style="font-size: 12px;">
-            Some youtube videos are not matched properly, report to nodja if the timestamp/video looks incorrect. Internet
-            Archive version should always be correct.
-          </p>
-
-          <iframe width="100%" height="400px" ref="yt_player" :src="video_url_youtube">
-          </iframe>
-        </TabPanel>
-        <TabPanel header="Internet Archive" class="video">
-          <div class="text-center" v-show="player_loading">
-            Internet Archive is slow, give it a sec.. <br />
-            Video is loading. <br />
-            <ProgressSpinner />
-          </div>
-          
-          <video controls ref="vodplayer" style="max-width: 33vw;" v-show="!player_loading">
-            <source src="" type="video/mp4">
-            Your browser does not support the video tag.
-          </video> <br />
-          <Button @click="play_ia()">Press this playback fails, I'll fix it properly tomorrow</Button>
-        </TabPanel>
-      </TabView>
+      <div v-if="show_videos" class="video" style="padding-bottom:56.25%;min-height: 300px;">
+        <iframe width="100%" height="400px" ref="pt_player" :src="video_url_peertube" allow="autoplay" allowfullscreen>
+        </iframe>
+      </div>
     </div>
   </div>
 </template>
-  
+
 <script setup>
 import { ref, onMounted, nextTick } from 'vue'
 import { createDbWorker } from "sql.js-httpvfs";
 
 const search_term = ref('')
 const is_loading = ref(false)
-const vodplayer = ref()
+
 
 const show_videos = ref(false)
-const show_yt = ref(false)
-const video_url_youtube = ref('')
-const video_url_ia = ref('')
-const video_ts_ia = ref(0)
-const player_loading = ref(false)
-const active_tab = ref(0);
+
 
 const results = ref()
 const search_completed = ref(false)
 const selected_vod_sentences = ref()
+const video_url_peertube = ref('')
 
+const pt_player = ref(null);
 
 const publicPath =
   process.env.NODE_ENV === "production" ? "/joe-videosearch/" : "/static/";
@@ -115,6 +90,7 @@ const wasmUrl = new URL(
 import dbdata from '/static/data.json'
 const dbworker = ref()
 
+
 onMounted(async () => {
   dbworker.value = await createDbWorker(
     [
@@ -126,6 +102,7 @@ onMounted(async () => {
     workerUrl.toString(),
     wasmUrl.toString()
   );
+
 })
 
 function timeToSeconds(timeString) {
@@ -157,51 +134,28 @@ function timeToPrettyString(timeString) {
 
 async function select_vod(event) {
   selected_vod_sentences.value = event.value.sentences;
+  show_videos.value = false;
 }
+
+
+const sendVideoMessage = (action) => {
+  console.log('Sending message:', action);
+  pt_player.value.contentWindow.postMessage(
+    JSON.stringify({
+      command: action  // Try different message formats
+    }),
+    '*'
+  );
+};
+
+// Add message listener to debug
+window.addEventListener('message', (event) => {
+  console.log('Received message:', event.data);
+});
 
 async function playsegment(event) {
-  show_yt.value = false;
-
-  video_url_ia.value = event.value.video_url;
-  video_ts_ia.value = timeToSeconds(event.value.start_time);
-
-
-  if (event.value.video_url_youtube) {
-    show_yt.value = true;
-    active_tab.value = 0;
-    video_url_youtube.value = "https://www.youtube-nocookie.com/embed/" + event.value.video_url_youtube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
-  }
-  else {
-    active_tab.value = 1;
-    play_ia()
-  }
+  video_url_peertube.value = event.value.video_url_peertube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
   show_videos.value = true;
-}
-
-async function play_ia() {
-  nextTick(() => {
-    const video = vodplayer.value
-    if (video.src != video_url_ia.value) {
-      video.src = video_url_ia.value;
-      video.load();
-      player_loading.value = true;
-      video.onloadeddata = () => {
-        video.currentTime = video_ts_ia.value;
-        video.play();
-        player_loading.value = false;
-      };
-    }
-    else {
-      video.currentTime = video_ts_ia.value;
-      video.play();
-    }
-
-  })
-}
-
-async function on_tab_change(event) {
-  if (event.index == 1)
-    play_ia()
 
 }
 
@@ -210,7 +164,7 @@ async function search() {
   results.value = [];
 
   let query = `
-  select vod_id, vods.title, video_url, video_url_youtube, game, date, speaker, start_time, end_time, content
+  select vod_id, vods.title, vods.video_url_peertube, vods.date, speaker, start_time, end_time, content
   from transcripts
   left join vods on transcripts.vod = vods.vod_id
   where content like '%${search_term.value}%'
@@ -227,18 +181,13 @@ async function search() {
     const vod_id = result.vod_id;
 
     let title = result.title;
-    if (!title) {
-      title = result.video_url.split("/").pop().split(".")[0].replace(/_/g, " ");
-      title = decodeURIComponent(title)
-      title = title.split(" - ").slice(0, -1).join(" - ");
-    }
+
 
     if (_sentences[vod_id] === undefined || _sentences[vod_id] === null) {
       _sentences[vod_id] = _results.length;
       _results.push({
         vod_id: vod_id,
         title: title,
-        game: result.game,
         date: result.date,
         sentences: [],
       });
@@ -247,8 +196,7 @@ async function search() {
       speaker: result.speaker,
       start_time: result.start_time,
       content: result.content,
-      video_url: result.video_url,
-      video_url_youtube: result.video_url_youtube,
+      video_url_peertube: result.video_url_peertube.replace('/watch/', '/embed/')
     });
 
 

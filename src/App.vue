@@ -50,7 +50,7 @@
     </div>
     <div class="text-center w-full">
       Video
-      <div v-show="show_videos" class="video" style="padding-bottom:56.25%;min-height: 300px;">
+      <div v-if="show_videos" class="video" style="padding-bottom:56.25%;min-height: 300px;">
         <iframe width="100%" height="400px" ref="pt_player" :src="video_url_peertube" allow="autoplay; encrypted-media" allowfullscreen>
         </iframe>
       </div>
@@ -155,9 +155,10 @@ window.addEventListener('message', (event) => {
 });
 
 async function playsegment(event) {
-  if (event.value.video_url_peertube === null) {
+  if (!event.value.video_url_peertube) {
     show_videos.value = false;
     return;
+
   }
   video_url_peertube.value = event.value.video_url_peertube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
   show_videos.value = true;

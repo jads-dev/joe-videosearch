@@ -20,12 +20,12 @@
           <template #option="slotProps">
             <div class="grid-nogutter align-items-center flex">
 
-                <div class="col-2">
+              <div class="col-2">
                 <span class="text-xs">{{ slotProps.option.date }}</span>
-                </div>
-                <div class="col-10">
+              </div>
+              <div class="col-10">
                 {{ slotProps.option.title }}
-                </div>
+              </div>
             </div>
           </template>
         </Listbox>
@@ -155,6 +155,10 @@ window.addEventListener('message', (event) => {
 });
 
 async function playsegment(event) {
+  if (event.value.video_url_peertube === null) {
+    show_videos.value = false;
+    return;
+  }
   video_url_peertube.value = event.value.video_url_peertube + "?autoplay=1&start=" + timeToSeconds(event.value.start_time);
   show_videos.value = true;
 
@@ -182,7 +186,7 @@ async function search() {
     const vod_id = result.vod_id;
 
     let title = result.title;
-    
+
 
     if (_sentences[vod_id] === undefined || _sentences[vod_id] === null) {
       _sentences[vod_id] = _results.length;

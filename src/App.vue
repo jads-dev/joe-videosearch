@@ -182,7 +182,7 @@ async function search() {
     const vod_id = result.vod_id;
 
     let title = result.title;
-
+    
 
     if (_sentences[vod_id] === undefined || _sentences[vod_id] === null) {
       _sentences[vod_id] = _results.length;
@@ -197,7 +197,7 @@ async function search() {
       speaker: result.speaker,
       start_time: result.start_time,
       content: result.content,
-      video_url_peertube: result.video_url_peertube.replace('/watch/', '/embed/')
+      video_url_peertube: result.video_url_peertube ? result.video_url_peertube.replace('/watch/', '/embed/') : ''
     });
 
 

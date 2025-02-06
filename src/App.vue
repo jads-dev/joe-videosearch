@@ -174,7 +174,7 @@ async function search() {
   from transcripts
   left join vods on transcripts.vod = vods.vod_id
   where content like '%${search_term.value}%'
-  order by vods.date, vods.vod_id, start_time, end_time
+  order by vods.date desc, vods.vod_id desc, start_time, end_time
 `;
 
   let _ret = await dbworker.value.db.query(query);
